@@ -1,0 +1,4150 @@
+[
+  {
+    "question": "A key stakeholder requests a major scope change. What should the project manager do first?",
+    "options": [
+      "Approve the change immediately",
+      "Update the project schedule",
+      "Submit the change to the change control process",
+      "Escalate to the sponsor"
+    ],
+    "correct_answer": 2,
+    "category": "Integration Management",
+    "difficulty": "Moderate",
+    "explanation": "All major scope changes must go through the formal change control process before approval or implementation."
+  },
+  {
+    "question": "What document formally authorizes a project?",
+    "options": [
+      "Project management plan",
+      "Business case",
+      "Project charter",
+      "Scope statement"
+    ],
+    "correct_answer": 2,
+    "category": "Integration Management",
+    "difficulty": "Easy",
+    "explanation": "The project charter formally authorizes the project and gives the project manager authority."
+  },
+  {
+    "question": "Which tool helps identify project risks?",
+    "options": [
+      "SWOT analysis",
+      "Control chart",
+      "Histogram",
+      "Pareto diagram"
+    ],
+    "correct_answer": 0,
+    "category": "Risk Management",
+    "difficulty": "Moderate",
+    "explanation": "SWOT analysis helps identify strengths, weaknesses, opportunities, and threats, which supports risk identification."
+  },
+  {
+    "question": "What is the main output of the Define Scope process?",
+    "options": [
+      "Project charter",
+      "Scope baseline",
+      "Project scope statement",
+      "WBS dictionary"
+    ],
+    "correct_answer": 2,
+    "category": "Scope Management",
+    "difficulty": "Moderate",
+    "explanation": "The project scope statement defines project boundaries, deliverables, and acceptance criteria."
+  },
+  {
+    "question": "If CPI is 0.8, what does it indicate?",
+    "options": [
+      "Project is under budget",
+      "Project is over budget",
+      "Project is on schedule",
+      "Project is ahead of schedule"
+    ],
+    "correct_answer": 1,
+    "category": "Cost Management",
+    "difficulty": "Moderate",
+    "explanation": "CPI less than 1 means the project is over budget."
+  },
+  {
+    "question": "What technique is used to resolve team conflicts collaboratively?",
+    "options": [
+      "Forcing",
+      "Smoothing",
+      "Collaborating",
+      "Avoiding"
+    ],
+    "correct_answer": 2,
+    "category": "Resource Management",
+    "difficulty": "Easy",
+    "explanation": "Collaborating addresses root causes and creates win-win solutions."
+  },
+  {
+    "question": "Which process ensures deliverables meet quality standards?",
+    "options": [
+      "Manage Quality",
+      "Control Quality",
+      "Validate Scope",
+      "Monitor Risks"
+    ],
+    "correct_answer": 1,
+    "category": "Quality Management",
+    "difficulty": "Moderate",
+    "explanation": "Control Quality focuses on verifying deliverables meet quality requirements."
+  },
+  {
+    "question": "A risk has high probability and high impact. What should be done?",
+    "options": [
+      "Ignore it",
+      "Transfer it",
+      "Develop a risk response plan",
+      "Close the risk"
+    ],
+    "correct_answer": 2,
+    "category": "Risk Management",
+    "difficulty": "Moderate",
+    "explanation": "High probability and impact risks require a proactive risk response plan."
+  },
+  {
+    "question": "Which document outlines how information will be distributed?",
+    "options": [
+      "Stakeholder register",
+      "Communications management plan",
+      "Risk register",
+      "Scope baseline"
+    ],
+    "correct_answer": 1,
+    "category": "Communication Management",
+    "difficulty": "Easy",
+    "explanation": "The communications management plan defines how project communications are handled."
+  },
+  {
+    "question": "What is the main benefit of stakeholder engagement?",
+    "options": [
+      "Reduced cost",
+      "Improved risk control",
+      "Increased support and project success",
+      "Faster delivery"
+    ],
+    "correct_answer": 2,
+    "category": "Stakeholder Management",
+    "difficulty": "Easy",
+    "explanation": "Engaged stakeholders increase support and improve project outcomes."
+  },
+
+  {
+    "question": "Which technique estimates cost based on past projects?",
+    "options": [
+      "Analogous estimating",
+      "Three-point estimating",
+      "Bottom-up estimating",
+      "Parametric estimating"
+    ],
+    "correct_answer": 0,
+    "category": "Cost Management",
+    "difficulty": "Moderate",
+    "explanation": "Analogous estimating uses historical data from similar projects."
+  },
+  {
+    "question": "What does the critical path determine?",
+    "options": [
+      "Shortest schedule duration",
+      "Longest sequence of dependent tasks",
+      "Most expensive tasks",
+      "Highest risk activities"
+    ],
+    "correct_answer": 1,
+    "category": "Schedule Management",
+    "difficulty": "Moderate",
+    "explanation": "The critical path is the longest path of dependent activities determining project duration."
+  },
+  {
+    "question": "What is a key input to Identify Risks?",
+    "options": [
+      "Risk register",
+      "Project management plan",
+      "Work performance reports",
+      "Approved deliverables"
+    ],
+    "correct_answer": 1,
+    "category": "Risk Management",
+    "difficulty": "Moderate",
+    "explanation": "The project management plan provides guidance for identifying risks."
+  },
+  {
+    "question": "What is the purpose of a procurement statement of work?",
+    "options": [
+      "Define seller responsibilities",
+      "Approve project charter",
+      "Track risk responses",
+      "Manage communications"
+    ],
+    "correct_answer": 0,
+    "category": "Procurement Management",
+    "difficulty": "Moderate",
+    "explanation": "The procurement statement of work defines what the seller must provide."
+  },
+  {
+    "question": "Which leadership style empowers team members?",
+    "options": [
+      "Autocratic",
+      "Laissez-faire",
+      "Servant leadership",
+      "Transactional"
+    ],
+    "correct_answer": 2,
+    "category": "Resource Management",
+    "difficulty": "Moderate",
+    "explanation": "Servant leadership focuses on supporting and empowering the team."
+  },
+
+  {
+    "question": "What is the main output of Create WBS?",
+    "options": [
+      "Scope baseline",
+      "WBS and WBS dictionary",
+      "Project charter",
+      "Activity list"
+    ],
+    "correct_answer": 1,
+    "category": "Scope Management",
+    "difficulty": "Moderate",
+    "explanation": "The WBS and WBS dictionary define deliverables and work packages."
+  },
+  {
+    "question": "What does EAC forecast?",
+    "options": [
+      "Schedule delay",
+      "Final project cost",
+      "Risk probability",
+      "Resource allocation"
+    ],
+    "correct_answer": 1,
+    "category": "Cost Management",
+    "difficulty": "Moderate",
+    "explanation": "Estimate at Completion forecasts the total cost at project completion."
+  },
+  {
+    "question": "Which strategy shifts risk to a third party?",
+    "options": [
+      "Mitigate",
+      "Avoid",
+      "Transfer",
+      "Accept"
+    ],
+    "correct_answer": 2,
+    "category": "Risk Management",
+    "difficulty": "Easy",
+    "explanation": "Risk transfer shifts responsibility to a third party."
+  },
+  {
+    "question": "What helps ensure stakeholder expectations are managed?",
+    "options": [
+      "Risk audit",
+      "Stakeholder engagement plan",
+      "WBS",
+      "Control chart"
+    ],
+    "correct_answer": 1,
+    "category": "Stakeholder Management",
+    "difficulty": "Moderate",
+    "explanation": "The stakeholder engagement plan outlines how to manage stakeholder expectations."
+  },
+  {
+    "question": "Which technique identifies root cause of a problem?",
+    "options": [
+      "Pareto chart",
+      "Fishbone diagram",
+      "Gantt chart",
+      "Histogram"
+    ],
+    "correct_answer": 1,
+    "category": "Quality Management",
+    "difficulty": "Moderate",
+    "explanation": "Fishbone diagram is used for root cause analysis."
+  },
+
+  {
+    "question": "What is the purpose of Validate Scope?",
+    "options": [
+      "Approve deliverables",
+      "Control risks",
+      "Manage budget",
+      "Create WBS"
+    ],
+    "correct_answer": 0,
+    "category": "Scope Management",
+    "difficulty": "Easy",
+    "explanation": "Validate Scope involves formal acceptance of completed deliverables."
+  },
+  {
+    "question": "What does SPI less than 1 indicate?",
+    "options": [
+      "Ahead of schedule",
+      "Behind schedule",
+      "Under budget",
+      "Over budget"
+    ],
+    "correct_answer": 1,
+    "category": "Schedule Management",
+    "difficulty": "Moderate",
+    "explanation": "SPI less than 1 indicates the project is behind schedule."
+  },
+  {
+    "question": "What is the primary goal of quality assurance?",
+    "options": [
+      "Inspect deliverables",
+      "Prevent defects",
+      "Approve scope",
+      "Manage cost"
+    ],
+    "correct_answer": 1,
+    "category": "Quality Management",
+    "difficulty": "Moderate",
+    "explanation": "Quality assurance focuses on preventing defects through process improvement."
+  },
+  {
+    "question": "Which document contains identified risks and responses?",
+    "options": [
+      "Risk register",
+      "Project charter",
+      "Scope statement",
+      "Stakeholder register"
+    ],
+    "correct_answer": 0,
+    "category": "Risk Management",
+    "difficulty": "Easy",
+    "explanation": "The risk register documents identified risks and planned responses."
+  },
+  {
+    "question": "What is the main purpose of Monitor and Control Project Work?",
+    "options": [
+      "Authorize project",
+      "Track performance and recommend changes",
+      "Hire resources",
+      "Develop schedule"
+    ],
+    "correct_answer": 1,
+    "category": "Integration Management",
+    "difficulty": "Moderate",
+    "explanation": "Monitor and Control Project Work tracks performance and recommends corrective actions."
+  },
+
+  {
+    "question": "During a sprint review, two senior developers strongly disagree about the technical approach for an upcoming feature. The disagreement is affecting team morale. What should the project manager do first?",
+    "options": [
+      "Escalate the issue to the sponsor",
+      "Facilitate a collaborative discussion between the developers",
+      "Replace one of the developers",
+      "Document the conflict in the issue log and continue the sprint"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Conflict Management",
+    "difficulty": "Medium",
+    "explanation": "The project manager should first attempt collaborative conflict resolution. Facilitating open discussion aligns with servant leadership and promotes team ownership. Escalation or replacement should only be considered if collaboration fails.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A hybrid project team shows declining engagement during retrospectives. What is the most appropriate action for the project manager?",
+    "options": [
+      "Cancel retrospectives to save time",
+      "Switch entirely to predictive approach",
+      "Encourage open feedback and adjust facilitation style",
+      "Report poor engagement to HR"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Team Engagement",
+    "difficulty": "Medium",
+    "explanation": "Retrospectives are critical for continuous improvement. Adjusting facilitation and encouraging psychological safety improves engagement. Eliminating ceremonies removes learning opportunities.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A stakeholder is resistant to project changes despite clear benefits. What should the project manager do?",
+    "options": [
+      "Ignore the stakeholder’s concerns",
+      "Escalate immediately to the steering committee",
+      "Engage the stakeholder to understand underlying concerns",
+      "Proceed without their input"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Stakeholder Engagement",
+    "difficulty": "Medium",
+    "explanation": "Understanding stakeholder concerns through engagement builds trust and alignment. Escalation should occur only if direct engagement fails.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A new team member struggles to adapt to agile practices. What leadership approach should the project manager apply?",
+    "options": [
+      "Directive leadership",
+      "Coaching and mentoring",
+      "Authoritative enforcement",
+      "Avoid involvement"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Coaching & Mentoring",
+    "difficulty": "Easy",
+    "explanation": "Coaching helps individuals adapt to agile environments by building understanding and confidence rather than enforcing compliance.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A key stakeholder submits a significant scope change in a predictive project. What should the project manager do first?",
+    "options": [
+      "Implement the change immediately",
+      "Submit the change through the formal change control process",
+      "Update the schedule baseline",
+      "Reject the request outright"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Change Control",
+    "difficulty": "Medium",
+    "explanation": "In predictive projects, all significant scope changes must follow the integrated change control process before approval or implementation.",
+    "is_pro": true
+  },
+
+  {
+    "question": "The CPI of a project is 0.85. What does this indicate?",
+    "options": [
+      "The project is under budget",
+      "The project is over budget",
+      "The project is ahead of schedule",
+      "The project is on schedule"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Cost Management",
+    "difficulty": "Easy",
+    "explanation": "CPI less than 1 indicates the project is spending more than planned for the work completed, meaning it is over budget.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During risk analysis, a high-impact risk is identified. What should be done next?",
+    "options": [
+      "Ignore it unless it occurs",
+      "Develop and document a risk response strategy",
+      "Remove it from the risk register",
+      "Transfer responsibility to a team member informally"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Management",
+    "difficulty": "Medium",
+    "explanation": "High-impact risks require proactive response planning. Ignoring or informally handling them increases project exposure.",
+    "is_pro": true
+  },
+
+  {
+    "question": "In a hybrid project, requirements continue evolving. What should the project manager do?",
+    "options": [
+      "Lock scope immediately",
+      "Apply adaptive planning for evolving components",
+      "Reject new requirements",
+      "Escalate all changes"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Hybrid Delivery",
+    "difficulty": "Hard",
+    "explanation": "Hybrid environments allow adaptive planning for evolving elements while maintaining predictive controls where appropriate.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Which tool helps determine the longest path of dependent activities?",
+    "options": [
+      "Pareto chart",
+      "Critical path method",
+      "Risk register",
+      "Control chart"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Schedule Management",
+    "difficulty": "Easy",
+    "explanation": "The critical path method identifies the longest sequence of dependent tasks determining project duration.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A regulatory change impacts project deliverables. What should the project manager prioritize?",
+    "options": [
+      "Ignore the regulation until project closure",
+      "Assess compliance impact and adjust plans accordingly",
+      "Continue work unchanged",
+      "Escalate without analysis"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Compliance",
+    "difficulty": "Medium",
+    "explanation": "Regulatory changes require impact assessment and plan adjustments to ensure compliance and avoid legal or reputational risk.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A hybrid project is in its third iteration when a key external vendor misses a critical milestone, delaying a component required for upcoming sprints. The vendor claims unclear acceptance criteria caused the delay. The team insists requirements were documented in the project management plan. What should the project manager do next?",
+    "options": [
+      "Terminate the vendor contract immediately",
+      "Review contract terms and clarify acceptance criteria collaboratively",
+      "Escalate the issue to executive management",
+      "Reduce sprint scope to compensate for vendor delay"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Procurement Management",
+    "difficulty": "Hard",
+    "explanation": "The project manager should first review contractual obligations and collaboratively clarify acceptance criteria. Hybrid environments require alignment between predictive documentation and adaptive execution. Immediate escalation or termination is premature without reviewing contractual terms.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During execution of a predictive infrastructure project, the CPI is 0.92 and the SPI is 0.88. The sponsor pressures the project manager to maintain the original delivery date without increasing budget. What is the best course of action?",
+    "options": [
+      "Compress the schedule using fast tracking or crashing after impact analysis",
+      "Ignore performance indexes and continue execution",
+      "Reduce quality standards to meet deadlines",
+      "Request additional budget immediately"
+    ],
+    "correct_answer": 0,
+    "category": "Process",
+    "subcategory": "Schedule Management",
+    "difficulty": "Hard",
+    "explanation": "With both cost and schedule variance unfavorable, schedule compression techniques such as fast tracking or crashing should be evaluated after impact analysis. Reducing quality violates professional standards, and ignoring performance data increases risk.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A newly formed agile team demonstrates high technical competence but avoids accountability during sprint commitments. Velocity fluctuates significantly across iterations. What should the project manager do first?",
+    "options": [
+      "Replace underperforming team members",
+      "Introduce stricter deadlines",
+      "Facilitate a retrospective focused on commitment and accountability",
+      "Escalate performance concerns to the sponsor"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Team Development",
+    "difficulty": "Hard",
+    "explanation": "Fluctuating velocity often indicates issues in commitment or team norms. A focused retrospective promotes transparency and accountability within agile frameworks. Replacement or escalation should only occur after coaching interventions.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Midway through a digital transformation project, organizational leadership announces a strategic shift that affects long-term benefits realization. What should the project manager prioritize?",
+    "options": [
+      "Continue with the original scope baseline",
+      "Assess alignment with new strategy and evaluate business case validity",
+      "Close the project immediately",
+      "Delay all ongoing work indefinitely"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Strategic Alignment",
+    "difficulty": "Hard",
+    "explanation": "Projects must align with organizational strategy. A strategic shift requires reassessing the business case and benefits realization plan before proceeding.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Two critical stakeholders provide conflicting requirements late in a predictive project lifecycle. Implementing both would exceed budget constraints. What should the project manager do?",
+    "options": [
+      "Implement both requirements regardless of cost",
+      "Reject both requirements outright",
+      "Facilitate stakeholder negotiation and analyze impact through change control",
+      "Escalate directly to executive leadership"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Stakeholder Engagement",
+    "difficulty": "Hard",
+    "explanation": "Conflicting stakeholder interests require facilitation and structured change control analysis. Collaborative negotiation maintains relationships while protecting project constraints.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A risk identified early in the project has now materialized, affecting a critical path activity. Contingency reserves were allocated. What should the project manager do next?",
+    "options": [
+      "Request additional funding immediately",
+      "Implement the predefined risk response plan and use contingency reserves",
+      "Ignore the impact until the next reporting cycle",
+      "Update the charter"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Management",
+    "difficulty": "Medium",
+    "explanation": "When a known risk materializes, the predefined response plan should be executed using allocated contingency reserves. This demonstrates proactive risk management.",
+    "is_pro": true
+  },
+
+  {
+    "question": "An agile team consistently delivers high-quality increments but customer satisfaction scores are declining. What should the project manager investigate first?",
+    "options": [
+      "Team productivity metrics",
+      "Stakeholder engagement and feedback alignment",
+      "Budget variance",
+      "Resource utilization rates"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Customer Engagement",
+    "difficulty": "Hard",
+    "explanation": "High-quality increments do not guarantee stakeholder satisfaction. The project manager should investigate alignment between delivered value and customer expectations.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During integration testing in a hybrid project, multiple defects emerge from parallel workstreams. The schedule buffer is limited. What should the project manager prioritize?",
+    "options": [
+      "Deliver as-is to maintain schedule",
+      "Reallocate resources to critical defect resolution and reassess schedule impact",
+      "Ignore minor defects",
+      "Extend working hours indefinitely"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Management",
+    "difficulty": "Hard",
+    "explanation": "Quality issues in integration testing require prioritization of critical defects and reassessment of schedule impact. Delivering defective work undermines value delivery.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A remote distributed team shows signs of burnout during a high-visibility release phase. Productivity begins to decline. What should the project manager do first?",
+    "options": [
+      "Increase workload monitoring",
+      "Offer incentives for faster delivery",
+      "Assess workload balance and support team well-being",
+      "Escalate to HR for disciplinary action"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Servant Leadership",
+    "difficulty": "Medium",
+    "explanation": "Servant leadership emphasizes supporting team well-being. Burnout impacts productivity and morale, so workload assessment and support should be prioritized.",
+    "is_pro": true
+  },
+
+  {
+    "question": "In a predictive construction project, earned value analysis shows stable CPI but declining SPI over three reporting cycles. What should the project manager conclude?",
+    "options": [
+      "The project is financially stable but experiencing schedule delays",
+      "The project is under budget and ahead of schedule",
+      "The project is financially unstable",
+      "The project requires immediate closure"
+    ],
+    "correct_answer": 0,
+    "category": "Process",
+    "subcategory": "Cost Management",
+    "difficulty": "Hard",
+    "explanation": "A stable CPI indicates cost performance is acceptable, while declining SPI indicates schedule slippage. The project manager should focus on schedule recovery strategies.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During a hybrid project, a senior executive bypasses the change control board and directly instructs the development team to implement a new feature immediately. The team is confused but willing to comply due to the executive’s authority. What should the project manager do first?",
+    "options": [
+      "Allow the team to implement the feature to maintain executive support",
+      "Remind the executive of the agreed governance process and initiate formal change control",
+      "Escalate the issue to the steering committee",
+      "Document the change after implementation"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Governance & Change Control",
+    "difficulty": "Hard",
+    "explanation": "Even when senior executives intervene, governance processes must be respected. The project manager should professionally reinforce the agreed change control framework before implementation. Escalation is premature unless resistance continues.",
+    "is_pro": true
+  },
+
+  {
+    "question": "An agile team member privately informs the project manager that a sprint commitment cannot be met due to technical debt accumulated in previous iterations. The team has publicly committed to stakeholders. What should the project manager do next?",
+    "options": [
+      "Hide the issue until the sprint review",
+      "Encourage transparency and facilitate discussion during the daily stand-up",
+      "Remove the commitment from the sprint backlog silently",
+      "Reassign work without informing stakeholders"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Transparency & Accountability",
+    "difficulty": "Hard",
+    "explanation": "Agile principles emphasize transparency and inspection. The issue should be surfaced early so the team can adapt. Concealing or silently adjusting commitments undermines trust.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A predictive project is behind schedule. A functional manager offers additional skilled resources but demands decision authority over technical design in return. What should the project manager do?",
+    "options": [
+      "Accept the offer to recover schedule",
+      "Reject the resources immediately",
+      "Evaluate governance impact and negotiate clear role boundaries",
+      "Escalate to executive management immediately"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Negotiation & Authority",
+    "difficulty": "Hard",
+    "explanation": "While additional resources may help schedule recovery, authority boundaries must align with the project governance model. Negotiating role clarity protects accountability without rejecting beneficial support.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Midway through execution, a high-impact risk previously assessed as low probability suddenly shows early warning indicators. No contingency reserve was allocated. What should the project manager do first?",
+    "options": [
+      "Ignore the indicators until risk materializes",
+      "Reassess probability and impact and update the risk register",
+      "Request additional budget immediately",
+      "Close the risk as inaccurate"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Reassessment",
+    "difficulty": "Hard",
+    "explanation": "Risk management is iterative. Early indicators require reassessment and updating response strategies. Immediate budget requests may be premature without updated analysis.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A sponsor pressures the project manager to approve incomplete deliverables to meet a public launch date. The team confirms testing is not fully completed. What should the project manager do?",
+    "options": [
+      "Approve deliverables to satisfy sponsor expectations",
+      "Delay delivery and document quality risks transparently",
+      "Allow limited release without documentation",
+      "Transfer accountability to the testing team"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Governance",
+    "difficulty": "Hard",
+    "explanation": "Professional responsibility requires ensuring deliverables meet agreed quality criteria. Transparency and documented risk communication protect both organization and stakeholders.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During backlog refinement, stakeholders continuously add requirements without removing lower-priority items. Team capacity remains fixed. What should the project manager do?",
+    "options": [
+      "Accept all new requirements",
+      "Increase sprint length",
+      "Facilitate prioritization to maintain sustainable scope",
+      "Escalate to executive leadership immediately"
+    ],
+    "correct_answer": 2,
+    "category": "Process",
+    "subcategory": "Agile Scope Control",
+    "difficulty": "Hard",
+    "explanation": "Agile prioritization ensures highest-value work is delivered within capacity constraints. Continuous addition without reprioritization leads to scope creep and team burnout.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A geographically distributed team reports communication breakdowns due to cultural differences. Productivity remains stable but tension is increasing. What should the project manager do first?",
+    "options": [
+      "Ignore the issue since productivity is stable",
+      "Replace team members in conflict",
+      "Facilitate cross-cultural communication workshops",
+      "Escalate to human resources"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Cultural Intelligence",
+    "difficulty": "Hard",
+    "explanation": "Proactive cultural alignment prevents future performance decline. Addressing root causes early avoids escalation and strengthens collaboration.",
+    "is_pro": true
+  },
+
+  {
+    "question": "In a predictive project, earned value metrics show CPI > 1 and SPI < 1. Stakeholders assume the project is healthy due to cost performance. What should the project manager clarify?",
+    "options": [
+      "The project is fully successful",
+      "Cost efficiency does not eliminate schedule risk",
+      "Schedule performance is irrelevant",
+      "Budget surplus guarantees early completion"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Earned Value Analysis",
+    "difficulty": "Hard",
+    "explanation": "CPI > 1 indicates cost efficiency, but SPI < 1 signals schedule delay. Balanced interpretation of EVM metrics is critical for informed stakeholder communication.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A team member reports unethical behavior by a vendor representative during procurement negotiations. The issue has not yet impacted project cost or schedule. What should the project manager do?",
+    "options": [
+      "Ignore the issue since impact is minimal",
+      "Report through appropriate organizational compliance channels",
+      "Confront the vendor informally",
+      "Terminate the contract immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Ethics & Compliance",
+    "difficulty": "Hard",
+    "explanation": "Ethical concerns must be addressed through formal compliance mechanisms regardless of immediate project impact. Informal handling may compromise governance integrity.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During a release planning session, the product owner prioritizes a technically simple feature over a strategically critical one due to personal preference. The team is aware but hesitant to challenge the decision. What should the project manager do?",
+    "options": [
+      "Allow the decision to maintain harmony",
+      "Privately coach the product owner on value-based prioritization",
+      "Override the product owner publicly",
+      "Escalate to the sponsor immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Leadership & Influence",
+    "difficulty": "Hard",
+    "explanation": "The project manager should use coaching and influence to align prioritization with business value while respecting agile roles. Public override damages collaboration.",
+    "is_pro": true
+  },
+
+  {
+  "question": "A hybrid project is midway through execution when a regulatory body announces a potential compliance audit within two months. The project has not previously allocated effort specifically for audit preparation. The sponsor insists delivery timelines cannot slip. What should the project manager do first?",
+  "options": [
+    "Ignore the audit until formal notification is received",
+    "Immediately extend the schedule baseline",
+    "Assess compliance gaps and evaluate impact before proposing adjustments",
+    "Delegate audit responsibility entirely to the compliance department"
+  ],
+  "correct_answer": 2,
+  "category": "Business Environment",
+  "subcategory": "Regulatory Compliance",
+  "difficulty": "Hard",
+  "explanation": "The project manager must first assess potential compliance gaps and evaluate the impact before recommending corrective actions. Immediate schedule changes or ignoring the issue would be premature without analysis.",
+  "is_pro": true
+  },
+
+  {
+    "question": "In a predictive project, the sponsor demands that a critical deliverable be fast-tracked by overlapping design and construction phases. Risk exposure is significant but not fully quantified. What should the project manager do next?",
+    "options": [
+      "Proceed immediately to satisfy the sponsor",
+      "Perform impact and risk analysis before approving schedule compression",
+      "Reject the request outright",
+      "Escalate to the steering committee"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Schedule Compression",
+    "difficulty": "Hard",
+    "explanation": "Fast tracking increases risk. The project manager must perform risk and impact analysis before approving compression techniques. Blindly proceeding compromises governance.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A high-performing agile team consistently meets sprint goals, but stakeholders complain that delivered features lack strategic alignment. What should the project manager investigate first?",
+    "options": [
+      "Team productivity metrics",
+      "Alignment between product roadmap and business objectives",
+      "Velocity fluctuations",
+      "Budget utilization"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Value Alignment",
+    "difficulty": "Hard",
+    "explanation": "Meeting sprint goals does not ensure value delivery. The project manager should evaluate whether backlog prioritization aligns with strategic objectives.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During execution, a functional manager instructs a shared team member to prioritize operational tasks over project work, causing delays. The project manager has limited formal authority. What should the project manager do first?",
+    "options": [
+      "Escalate immediately to the sponsor",
+      "Reassign the team member",
+      "Engage the functional manager to negotiate priorities",
+      "Document delays without intervention"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Matrix Negotiation",
+    "difficulty": "Hard",
+    "explanation": "In matrix environments, negotiation and collaboration with functional managers is the first step. Escalation should follow only if negotiation fails.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A predictive project’s SPI continues declining despite corrective actions. Analysis shows frequent late approvals from a key stakeholder. What is the best next action?",
+    "options": [
+      "Remove the stakeholder from the approval process",
+      "Engage the stakeholder to identify root causes of delays",
+      "Ignore delays and rebaseline the schedule",
+      "Escalate without discussion"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Stakeholder Influence",
+    "difficulty": "Hard",
+    "explanation": "Root cause engagement with the stakeholder addresses systemic approval delays. Removing or escalating prematurely damages relationships.",
+    "is_pro": true
+  },
+
+  {
+    "question": "An agile team proposes skipping retrospective sessions to accelerate delivery during a critical release phase. What should the project manager do?",
+    "options": [
+      "Approve the proposal to increase speed",
+      "Shorten retrospectives but maintain continuous improvement",
+      "Cancel retrospectives permanently",
+      "Escalate to the sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Continuous Improvement",
+    "difficulty": "Hard",
+    "explanation": "Continuous improvement is foundational in agile. Retrospectives may be streamlined, but eliminating them risks long-term performance degradation.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A vendor delivers components meeting contractual specifications but failing to satisfy implicit user expectations. The contract is technically fulfilled. What should the project manager do?",
+    "options": [
+      "Reject the deliverables immediately",
+      "Initiate dispute proceedings",
+      "Facilitate discussion to clarify expectations and explore corrective options",
+      "Close procurement since contract terms were met"
+    ],
+    "correct_answer": 2,
+    "category": "Process",
+    "subcategory": "Procurement Governance",
+    "difficulty": "Hard",
+    "explanation": "Although contractual terms are met, stakeholder satisfaction matters. Collaborative clarification may resolve gaps without immediate dispute escalation.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A project nearing closure identifies a previously unnoticed compliance requirement. Addressing it will require reopening completed work packages. What should the project manager do first?",
+    "options": [
+      "Ignore the requirement due to late discovery",
+      "Assess compliance risk and consult governance policies",
+      "Immediately reopen all work packages",
+      "Close the project before discovery escalates"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Governance Risk",
+    "difficulty": "Hard",
+    "explanation": "Compliance risks must be assessed carefully. Immediate rework without impact analysis may be inefficient, but ignoring the issue creates legal exposure.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Two agile teams working on interdependent modules blame each other for integration failures. Velocity declines as finger-pointing increases. What should the project manager do first?",
+    "options": [
+      "Escalate to executive management",
+      "Assign blame based on defect count",
+      "Facilitate a joint root cause analysis session",
+      "Separate the teams permanently"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Collaborative Problem Solving",
+    "difficulty": "Hard",
+    "explanation": "Cross-team collaboration and root cause analysis address systemic integration issues. Blame and escalation worsen morale and productivity.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During benefits realization tracking, it becomes evident that projected financial gains were overestimated in the business case. The project is technically successful. What should the project manager do?",
+    "options": [
+      "Ignore the discrepancy since deliverables were met",
+      "Communicate findings transparently and reassess benefit expectations",
+      "Adjust reporting to align with original projections",
+      "Close the project without documentation"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Benefits Realization",
+    "difficulty": "Hard",
+    "explanation": "Transparency in benefits tracking is essential. Even if deliverables are complete, inaccurate projections must be addressed to maintain organizational trust.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A project sponsor requests early release of partially completed functionality to demonstrate progress to investors. The feature has passed internal testing but not full user acceptance testing. What should the project manager do first?",
+    "options": [
+      "Approve the release to satisfy investors",
+      "Assess risks and obtain formal stakeholder acceptance before release",
+      "Delay indefinitely without explanation",
+      "Transfer responsibility to the quality team"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Governance",
+    "difficulty": "Hard",
+    "explanation": "The project manager must evaluate release risks and ensure formal acceptance processes are followed. Premature release without stakeholder approval may compromise quality and trust.",
+    "is_pro": true
+  },
+
+  {
+    "question": "An agile team consistently exceeds sprint commitments, but quality defects increase in later integration stages. What should the project manager investigate first?",
+    "options": [
+      "Team morale levels",
+      "Definition of Done and quality criteria",
+      "Stakeholder satisfaction",
+      "Budget utilization"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality in Agile",
+    "difficulty": "Hard",
+    "explanation": "Exceeding commitments while increasing defects suggests weaknesses in the Definition of Done or quality standards. Addressing root quality criteria ensures sustainable delivery.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A matrix organization reassigns a critical team member without consulting the project manager. Project milestones are at risk. What should the project manager do first?",
+    "options": [
+      "Escalate immediately to executive leadership",
+      "Rebaseline the schedule",
+      "Engage the functional manager to negotiate resource allocation",
+      "Remove scope elements to compensate"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Matrix Environment",
+    "difficulty": "Hard",
+    "explanation": "In matrix structures, collaboration with functional managers is essential. Negotiation should precede escalation or schedule changes.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Midway through execution, the customer proposes a minor change with high visibility but low business value. The team can accommodate it without affecting schedule or budget. What should the project manager do?",
+    "options": [
+      "Implement immediately without documentation",
+      "Reject due to low value",
+      "Submit through change control for proper evaluation",
+      "Escalate to the sponsor"
+    ],
+    "correct_answer": 2,
+    "category": "Process",
+    "subcategory": "Integrated Change Control",
+    "difficulty": "Hard",
+    "explanation": "Even minor changes must follow governance processes to maintain documentation and traceability, regardless of perceived impact.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A team member discovers that schedule reports presented to executives omit unfavorable variance details. The omission was intentional to maintain sponsor confidence. What should the project manager do?",
+    "options": [
+      "Continue reporting selectively",
+      "Correct the reports and ensure transparent communication",
+      "Blame the reporting team",
+      "Ignore the discrepancy"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Ethics & Transparency",
+    "difficulty": "Hard",
+    "explanation": "Professional responsibility requires transparent and accurate reporting. Concealing variance undermines governance and stakeholder trust.",
+    "is_pro": true
+  },
+
+  {
+    "question": "An agile team resists documentation activities, arguing that working software is the primary measure of progress. However, regulatory standards require formal documentation. What should the project manager do?",
+    "options": [
+      "Eliminate documentation to maintain agility",
+      "Impose documentation without explanation",
+      "Educate the team on compliance requirements and integrate documentation into workflow",
+      "Escalate to regulatory authorities"
+    ],
+    "correct_answer": 2,
+    "category": "Process",
+    "subcategory": "Hybrid Compliance",
+    "difficulty": "Hard",
+    "explanation": "Agile principles must coexist with regulatory requirements. Integrating necessary documentation into workflows balances compliance and agility.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During closing, stakeholders disagree on whether project benefits have been fully realized. Deliverables meet scope baseline. What should the project manager do?",
+    "options": [
+      "Close the project since scope is complete",
+      "Reassess benefits realization metrics with stakeholders",
+      "Ignore stakeholder concerns",
+      "Transfer responsibility to operations"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Benefits Realization",
+    "difficulty": "Hard",
+    "explanation": "Project success includes benefits realization, not just deliverable completion. Reassessing metrics ensures alignment before closure.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A high-priority risk response requires additional funding, but management refuses to increase the budget. What should the project manager do first?",
+    "options": [
+      "Implement the response regardless of budget",
+      "Reevaluate alternative response strategies within constraints",
+      "Ignore the risk",
+      "Close the project"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Response Strategy",
+    "difficulty": "Hard",
+    "explanation": "If funding is constrained, alternative mitigation strategies must be evaluated. Ignoring or overspending violates governance principles.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Two stakeholders provide conflicting success criteria for the same deliverable. Both have executive influence. What should the project manager do first?",
+    "options": [
+      "Select the criteria of the more powerful stakeholder",
+      "Escalate immediately to the sponsor",
+      "Facilitate alignment discussion and clarify acceptance criteria",
+      "Proceed based on original baseline without consultation"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Stakeholder Alignment",
+    "difficulty": "Hard",
+    "explanation": "Facilitating alignment ensures shared understanding and avoids political bias. Escalation should occur only if facilitation fails.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Late in execution, performance metrics indicate the project will meet scope and schedule but exceed budget slightly. The sponsor values time-to-market over cost control. What should the project manager prioritize?",
+    "options": [
+      "Focus solely on cost reduction",
+      "Maintain schedule while managing cost variance transparently",
+      "Delay delivery to recover cost",
+      "Ignore variance entirely"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Performance Trade-offs",
+    "difficulty": "Hard",
+    "explanation": "Given sponsor priorities, maintaining schedule while transparently managing cost variance aligns with stakeholder expectations and governance responsibilities.",
+    "is_pro": true
+  },
+
+  {
+  "question": "During execution of a predictive project, a team member identifies a potential defect in a completed deliverable that has already been approved. What should the project manager do first?",
+  "options": [
+    "Ignore the issue since it was approved",
+    "Initiate corrective action through change control",
+    "Reopen the entire project plan",
+    "Blame the quality team"
+  ],
+  "correct_answer": 1,
+  "category": "Process",
+  "subcategory": "Quality Control",
+  "difficulty": "Medium",
+  "explanation": "Even if a deliverable was approved, identified defects must be addressed through formal change control and corrective action procedures to maintain quality standards.",
+  "is_pro": true
+  },
+
+  {
+    "question": "An agile team’s velocity has steadily decreased over three iterations. No major scope changes occurred. What should the project manager investigate first?",
+    "options": [
+      "Team capacity and workload distribution",
+      "Sponsor expectations",
+      "Budget variance",
+      "Procurement delays"
+    ],
+    "correct_answer": 0,
+    "category": "People",
+    "subcategory": "Team Performance",
+    "difficulty": "Medium",
+    "explanation": "A steady velocity decline without scope changes often indicates workload imbalance, burnout, or team inefficiencies. Capacity analysis should be the first step.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A key stakeholder frequently misses status meetings and later raises concerns about lack of visibility. What should the project manager do?",
+    "options": [
+      "Remove the stakeholder from distribution lists",
+      "Escalate to executive leadership",
+      "Review the communication management plan and adjust engagement strategy",
+      "Ignore the concerns"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Stakeholder Communication",
+    "difficulty": "Medium",
+    "explanation": "The project manager should reassess the communication approach to ensure the stakeholder receives information through preferred channels.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A risk response plan includes transferring risk to a third-party vendor. What must the project manager ensure before implementation?",
+    "options": [
+      "Verbal agreement from vendor",
+      "Formal contract terms reflect risk transfer",
+      "Sponsor approval only",
+      "Budget increase"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Management",
+    "difficulty": "Medium",
+    "explanation": "Risk transfer requires formal contractual agreements. Verbal arrangements do not provide enforceable protection.",
+    "is_pro": true
+  },
+
+  {
+    "question": "In a hybrid project, detailed requirements are defined for core infrastructure, but user-facing features evolve iteratively. What is the most appropriate planning approach?",
+    "options": [
+      "Use predictive planning for all components",
+      "Use adaptive planning for evolving components and predictive for stable ones",
+      "Avoid planning until execution",
+      "Use agile for infrastructure and predictive for UI"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Hybrid Delivery",
+    "difficulty": "Hard",
+    "explanation": "Hybrid projects apply predictive methods where requirements are stable and adaptive methods where requirements are evolving.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During procurement negotiations, a vendor offers a lower price in exchange for reduced warranty coverage. What should the project manager evaluate first?",
+    "options": [
+      "Immediate cost savings only",
+      "Total cost of ownership and long-term risk",
+      "Sponsor preference",
+      "Team convenience"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Procurement Evaluation",
+    "difficulty": "Medium",
+    "explanation": "Lower upfront cost may increase long-term risk and maintenance expense. Total cost of ownership analysis ensures informed decisions.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A team member is consistently late in delivering assigned tasks but produces high-quality work. What should the project manager do first?",
+    "options": [
+      "Issue a formal warning",
+      "Reassign the team member",
+      "Discuss performance expectations and identify constraints",
+      "Escalate to HR"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Performance Management",
+    "difficulty": "Medium",
+    "explanation": "The project manager should first understand root causes through direct communication before formal action.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Earned Value metrics show CPI = 1.05 and SPI = 0.95. What does this indicate?",
+    "options": [
+      "Project is under budget and slightly behind schedule",
+      "Project is over budget and ahead of schedule",
+      "Project is on budget and on schedule",
+      "Project is failing"
+    ],
+    "correct_answer": 0,
+    "category": "Process",
+    "subcategory": "Earned Value Analysis",
+    "difficulty": "Medium",
+    "explanation": "CPI greater than 1 indicates cost efficiency, while SPI less than 1 indicates schedule delay.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A regulatory update requires additional reporting that was not included in the original scope. What should the project manager do first?",
+    "options": [
+      "Implement reporting immediately without approval",
+      "Ignore the requirement",
+      "Assess impact and submit a change request",
+      "Close the project early"
+    ],
+    "correct_answer": 2,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Change",
+    "difficulty": "Medium",
+    "explanation": "Regulatory updates must be evaluated for impact and processed through change control before implementation.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A project nearing completion identifies unused contingency reserves. What should the project manager do?",
+    "options": [
+      "Spend the remaining reserve before closure",
+      "Return unused contingency per governance policy",
+      "Distribute funds to team members",
+      "Ignore remaining funds"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Cost Governance",
+    "difficulty": "Medium",
+    "explanation": "Unused contingency reserves should be handled according to governance and financial control policies, typically returned or released.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During project execution, a key assumption documented in the charter proves invalid. What should the project manager do first?",
+    "options": [
+      "Ignore the assumption since execution has begun",
+      "Update the risk register and assess impact",
+      "Blame the sponsor",
+      "Immediately rebaseline the project"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Assumption Analysis",
+    "difficulty": "Medium",
+    "explanation": "When an assumption becomes invalid, the project manager must assess impact and update risk documentation before deciding on corrective actions.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team reports recurring misunderstandings about acceptance criteria. What should the project manager recommend?",
+    "options": [
+      "Eliminate acceptance criteria documentation",
+      "Increase stakeholder collaboration during backlog refinement",
+      "Shorten sprint duration",
+      "Escalate to the sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Agile Collaboration",
+    "difficulty": "Medium",
+    "explanation": "Frequent misunderstandings signal insufficient stakeholder collaboration. Refinement sessions should clarify expectations before sprint commitment.",
+    "is_pro": true
+  },
+  {
+    "question": "A project’s critical path activity is delayed due to a supplier issue. What should the project manager do first?",
+    "options": [
+      "Ignore since non-critical tasks are on schedule",
+      "Analyze schedule impact and evaluate recovery options",
+      "Blame procurement team",
+      "Extend the project deadline automatically"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Schedule Control",
+    "difficulty": "Medium",
+    "explanation": "Delays on critical path require immediate impact analysis and recovery evaluation to protect overall project duration.",
+    "is_pro": true
+  },
+  {
+    "question": "Two stakeholders disagree about project priorities. Both are influential. What should the project manager do?",
+    "options": [
+      "Choose the more powerful stakeholder",
+      "Escalate immediately",
+      "Facilitate alignment discussion to reach consensus",
+      "Delay decision indefinitely"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Stakeholder Management",
+    "difficulty": "Medium",
+    "explanation": "Facilitated discussion promotes alignment and reduces political bias while maintaining professional neutrality.",
+    "is_pro": true
+  },
+  {
+    "question": "In a predictive project, scope changes are frequent and informal. What is the primary risk?",
+    "options": [
+      "Improved innovation",
+      "Scope creep and loss of baseline control",
+      "Higher stakeholder engagement",
+      "Reduced documentation effort"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Scope Control",
+    "difficulty": "Medium",
+    "explanation": "Frequent informal changes erode baseline integrity and lead to uncontrolled scope expansion.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member reports harassment concerns involving a vendor representative. What should the project manager do?",
+    "options": [
+      "Ignore since it is vendor-related",
+      "Report through appropriate compliance channels",
+      "Handle privately without documentation",
+      "Terminate the contract immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Ethics & Compliance",
+    "difficulty": "Hard",
+    "explanation": "Harassment concerns must be addressed through formal compliance mechanisms to ensure legal and ethical integrity.",
+    "is_pro": true
+  },
+  {
+    "question": "A sprint goal is achieved but stakeholders claim delivered features do not solve the intended problem. What should the project manager review?",
+    "options": [
+      "Budget baseline",
+      "Definition of Done only",
+      "Product vision and backlog alignment",
+      "Team velocity"
+    ],
+    "correct_answer": 2,
+    "category": "Process",
+    "subcategory": "Value Delivery",
+    "difficulty": "Hard",
+    "explanation": "Delivering features without solving the problem suggests misalignment between backlog priorities and business objectives.",
+    "is_pro": true
+  },
+  {
+    "question": "A high-performing team begins competing internally, reducing collaboration. What leadership action is most appropriate?",
+    "options": [
+      "Encourage competition for productivity",
+      "Reinforce shared goals and team norms",
+      "Reward individual performance only",
+      "Ignore since productivity remains high"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Dynamics",
+    "difficulty": "Medium",
+    "explanation": "Healthy collaboration requires reinforcing shared objectives and psychological safety rather than internal rivalry.",
+    "is_pro": true
+  },
+  {
+    "question": "A risk mitigation strategy increases project cost but reduces probability significantly. What should guide the decision?",
+    "options": [
+      "Sponsor opinion only",
+      "Cost-benefit analysis",
+      "Team preference",
+      "Schedule convenience"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Response",
+    "difficulty": "Medium",
+    "explanation": "Risk mitigation decisions should be guided by cost-benefit evaluation relative to potential impact.",
+    "is_pro": true
+  },
+  {
+    "question": "A project is technically successful but customer adoption is low. What should be evaluated?",
+    "options": [
+      "Schedule variance",
+      "Benefits realization plan",
+      "Resource allocation",
+      "Procurement contract"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Benefits Realization",
+    "difficulty": "Medium",
+    "explanation": "Low adoption suggests benefits realization and value delivery need reassessment beyond technical completion.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member frequently challenges decisions publicly during meetings. What should the project manager do first?",
+    "options": [
+      "Reprimand publicly",
+      "Privately discuss concerns and expectations",
+      "Escalate immediately",
+      "Remove from meetings"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Conflict Management",
+    "difficulty": "Medium",
+    "explanation": "Private discussion helps understand intent and maintain team morale while reinforcing constructive behavior.",
+    "is_pro": true
+  },
+  {
+    "question": "SPI is 1.02 and CPI is 0.89. What does this indicate?",
+    "options": [
+      "Ahead of schedule but over budget",
+      "Behind schedule and under budget",
+      "On budget and on schedule",
+      "Critical failure"
+    ],
+    "correct_answer": 0,
+    "category": "Process",
+    "subcategory": "Earned Value Analysis",
+    "difficulty": "Medium",
+    "explanation": "SPI above 1 indicates ahead of schedule, while CPI below 1 indicates cost overrun.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder requests additional reporting beyond agreed communication plan. What should the project manager do?",
+    "options": [
+      "Ignore request",
+      "Evaluate impact and update communication plan if appropriate",
+      "Escalate immediately",
+      "Remove stakeholder"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Communication Management",
+    "difficulty": "Medium",
+    "explanation": "Communication needs should be evaluated and adjusted formally if beneficial.",
+    "is_pro": true
+  },
+  {
+    "question": "During integration, multiple minor defects are discovered. Schedule is tight. What is best action?",
+    "options": [
+      "Ignore minor defects",
+      "Prioritize based on impact and address critical ones",
+      "Deliver as-is",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Prioritization",
+    "difficulty": "Medium",
+    "explanation": "Defects should be prioritized based on impact rather than ignored or blindly escalated.",
+    "is_pro": true
+  },
+  {
+    "question": "A regulatory audit identifies documentation gaps. What should the project manager prioritize?",
+    "options": [
+      "Blame documentation team",
+      "Immediately assess gaps and implement corrective action",
+      "Ignore findings",
+      "Close project"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Compliance",
+    "difficulty": "Medium",
+    "explanation": "Compliance gaps must be assessed and corrected promptly to avoid penalties or project risk.",
+    "is_pro": true
+  },
+  {
+    "question": "A new stakeholder joins mid-project and questions earlier decisions. What should the project manager do?",
+    "options": [
+      "Dismiss concerns",
+      "Provide background and align expectations",
+      "Restart project",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Stakeholder Engagement",
+    "difficulty": "Medium",
+    "explanation": "New stakeholders require onboarding and context to maintain alignment.",
+    "is_pro": true
+  },
+  {
+    "question": "A team consistently works overtime to meet deadlines. What is the risk?",
+    "options": [
+      "Improved morale",
+      "Burnout and declining productivity",
+      "Higher quality",
+      "Lower cost"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Sustainability",
+    "difficulty": "Medium",
+    "explanation": "Sustained overtime increases burnout risk and harms long-term performance.",
+    "is_pro": true
+  },
+  {
+    "question": "A supplier proposes substituting materials with similar specifications but lower cost. What should be evaluated first?",
+    "options": [
+      "Immediate savings",
+      "Impact on quality and contractual obligations",
+      "Team convenience",
+      "Sponsor preference"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Procurement Control",
+    "difficulty": "Medium",
+    "explanation": "Material substitution must be evaluated for contractual compliance and quality impact.",
+    "is_pro": true
+  },
+  {
+    "question": "Project closure documentation is incomplete, but sponsor wants immediate release of resources. What should the project manager do?",
+    "options": [
+      "Release resources immediately",
+      "Complete closure documentation per governance policy",
+      "Ignore documentation",
+      "Transfer responsibility"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Project Closure",
+    "difficulty": "Medium",
+    "explanation": "Formal closure ensures knowledge capture and governance compliance before resource release.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member suggests an innovative approach that deviates from baseline but may improve efficiency. What should the project manager do?",
+    "options": [
+      "Reject immediately",
+      "Evaluate through change control process",
+      "Implement without review",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Innovation & Change",
+    "difficulty": "Medium",
+    "explanation": "Innovations should be evaluated formally to assess impact before implementation.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A stakeholder insists on adding a feature late in the project that provides minimal business value but high visibility. What should the project manager do first?",
+    "options": [
+      "Approve immediately to maintain relationship",
+      "Evaluate impact through formal change control",
+      "Reject without explanation",
+      "Escalate to steering committee"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Change Control",
+    "difficulty": "Medium",
+    "explanation": "All scope changes, regardless of perceived value, must go through formal change control to evaluate impact on schedule, cost, and risk.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team member consistently dominates discussions, limiting input from others. What should the project manager do?",
+    "options": [
+      "Remove the team member",
+      "Facilitate balanced participation during meetings",
+      "Ignore since productivity is unaffected",
+      "Escalate to HR"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Facilitation",
+    "difficulty": "Medium",
+    "explanation": "Balanced participation encourages psychological safety and collaborative decision-making within agile teams.",
+    "is_pro": true
+  },
+  {
+    "question": "A risk with low probability but extremely high impact is identified. What strategy is most appropriate?",
+    "options": [
+      "Ignore the risk",
+      "Accept without monitoring",
+      "Develop mitigation or contingency planning",
+      "Transfer to team member informally"
+    ],
+    "correct_answer": 2,
+    "category": "Process",
+    "subcategory": "Risk Planning",
+    "difficulty": "Medium",
+    "explanation": "High-impact risks require proactive planning even if probability is low.",
+    "is_pro": true
+  },
+  {
+    "question": "A distributed team reports communication delays due to time zone differences. What should the project manager implement?",
+    "options": [
+      "Mandate longer working hours",
+      "Establish overlapping collaboration windows",
+      "Ignore issue",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Remote Collaboration",
+    "difficulty": "Medium",
+    "explanation": "Overlapping working hours improve communication efficiency in distributed environments.",
+    "is_pro": true
+  },
+  {
+    "question": "SPI is 0.92 and trend continues downward. What should the project manager prioritize?",
+    "options": [
+      "Cost reduction",
+      "Schedule recovery analysis",
+      "Scope expansion",
+      "Procurement review"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Schedule Performance",
+    "difficulty": "Medium",
+    "explanation": "SPI below 1 indicates schedule delay, requiring recovery analysis.",
+    "is_pro": true
+  },
+  {
+    "question": "A compliance requirement changes during project execution. What should the project manager do?",
+    "options": [
+      "Implement immediately",
+      "Submit change request and assess impact",
+      "Ignore until audit",
+      "Close project"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Impact",
+    "difficulty": "Medium",
+    "explanation": "Regulatory changes must be evaluated formally through change control.",
+    "is_pro": true
+  },
+  {
+    "question": "Team morale declines after repeated scope changes. What should the project manager do first?",
+    "options": [
+      "Increase workload",
+      "Address change fatigue and clarify priorities",
+      "Blame stakeholders",
+      "Reduce team size"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Motivation",
+    "difficulty": "Medium",
+    "explanation": "Frequent changes can cause fatigue. Addressing concerns and clarifying priorities restores morale.",
+    "is_pro": true
+  },
+  {
+    "question": "A vendor consistently meets deadlines but quality varies. What should the project manager review?",
+    "options": [
+      "Payment schedule only",
+      "Quality clauses in contract and acceptance criteria",
+      "Team morale",
+      "Stakeholder engagement"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Procurement Quality",
+    "difficulty": "Medium",
+    "explanation": "Vendor performance should be assessed against contractual quality requirements.",
+    "is_pro": true
+  },
+  {
+    "question": "A project is ahead of schedule but significantly over budget. What should the project manager analyze?",
+    "options": [
+      "Scope baseline changes",
+      "Cost drivers and resource utilization",
+      "Communication plan",
+      "Stakeholder register"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Cost Control",
+    "difficulty": "Medium",
+    "explanation": "Cost overrun despite schedule advantage requires analysis of cost drivers.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder resists adoption of project deliverables after deployment. What should the project manager evaluate?",
+    "options": [
+      "Benefits realization and change management effectiveness",
+      "Schedule variance",
+      "Procurement performance",
+      "Risk register"
+    ],
+    "correct_answer": 0,
+    "category": "Business Environment",
+    "subcategory": "Change Adoption",
+    "difficulty": "Medium",
+    "explanation": "Adoption issues often relate to change management and stakeholder engagement effectiveness.",
+    "is_pro": true
+  },
+  {
+    "question": "During sprint planning, the team overcommits repeatedly. What should be adjusted?",
+    "options": [
+      "Increase sprint duration",
+      "Improve estimation accuracy and capacity planning",
+      "Escalate to sponsor",
+      "Reduce team size"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Agile Estimation",
+    "difficulty": "Medium",
+    "explanation": "Accurate estimation and realistic capacity planning prevent overcommitment.",
+    "is_pro": true
+  },
+  {
+    "question": "A functional manager refuses to release a required resource. What should the project manager do first?",
+    "options": [
+      "Escalate immediately",
+      "Negotiate and explain project priority",
+      "Cancel milestone",
+      "Remove resource permanently"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Resource Negotiation",
+    "difficulty": "Medium",
+    "explanation": "Negotiation and alignment should precede escalation in matrix environments.",
+    "is_pro": true
+  },
+  {
+    "question": "A project’s risk exposure increases due to market instability. What should the project manager do?",
+    "options": [
+      "Ignore external factors",
+      "Reassess risk register and update response strategies",
+      "Close project",
+      "Blame sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Monitoring",
+    "difficulty": "Medium",
+    "explanation": "Risk registers should be continuously updated to reflect external changes.",
+    "is_pro": true
+  },
+  {
+    "question": "During testing, stakeholders request cosmetic changes that do not affect functionality. What should the project manager do?",
+    "options": [
+      "Implement immediately",
+      "Evaluate through change control",
+      "Ignore requests",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Scope Governance",
+    "difficulty": "Medium",
+    "explanation": "All requested changes should be evaluated formally, regardless of size.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member reports feeling undervalued. What should the project manager do?",
+    "options": [
+      "Ignore comment",
+      "Recognize contributions and discuss development goals",
+      "Escalate to HR",
+      "Reassign immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Recognition",
+    "difficulty": "Medium",
+    "explanation": "Recognition and career development discussions improve engagement.",
+    "is_pro": true
+  },
+  {
+    "question": "A supplier fails to meet contractual quality standards. What should the project manager do first?",
+    "options": [
+      "Terminate contract immediately",
+      "Review contract terms and initiate corrective action process",
+      "Ignore issue",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Procurement Control",
+    "difficulty": "Medium",
+    "explanation": "Corrective action should align with contractual governance before termination.",
+    "is_pro": true
+  },
+  {
+    "question": "A project sponsor requests progress reports excluding risk information. What should the project manager do?",
+    "options": [
+      "Comply to maintain relationship",
+      "Provide transparent reporting including risks",
+      "Remove risks from register",
+      "Ignore sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Governance Transparency",
+    "difficulty": "Hard",
+    "explanation": "Transparent reporting is essential for governance and ethical responsibility.",
+    "is_pro": true
+  },
+  {
+    "question": "A team completes work early and requests additional features to fill time. What should the project manager do?",
+    "options": [
+      "Add new scope without approval",
+      "Review backlog priorities or release early",
+      "Increase workload",
+      "Ignore request"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Scope Discipline",
+    "difficulty": "Medium",
+    "explanation": "Additional features require prioritization or formal approval rather than uncontrolled scope expansion.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder questions ROI mid-project. What should the project manager reference?",
+    "options": [
+      "Risk register",
+      "Business case and benefits management plan",
+      "Communication matrix",
+      "Procurement contract"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Business Case Review",
+    "difficulty": "Medium",
+    "explanation": "The business case defines ROI expectations and should guide discussion.",
+    "is_pro": true
+  },
+  {
+    "question": "Team conflict arises due to unclear responsibilities. What should the project manager review?",
+    "options": [
+      "Cost baseline",
+      "RACI or responsibility assignment matrix",
+      "Risk response plan",
+      "Schedule baseline"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Role Clarity",
+    "difficulty": "Medium",
+    "explanation": "Role clarity through RACI prevents responsibility-based conflicts.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A predictive project is experiencing frequent minor scope clarifications from stakeholders. What should the project manager do to prevent future confusion?",
+    "options": [
+      "Ignore clarifications",
+      "Improve requirements documentation and validation process",
+      "Escalate to sponsor",
+      "Reduce stakeholder involvement"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Requirements Management",
+    "difficulty": "Medium",
+    "explanation": "Frequent clarifications indicate insufficient requirements definition or validation. Strengthening requirements processes reduces ambiguity.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team delivers features rapidly, but technical debt accumulates. What should the project manager encourage?",
+    "options": [
+      "Ignore debt for speed",
+      "Allocate capacity for refactoring and quality improvement",
+      "Increase sprint workload",
+      "Shorten retrospectives"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Technical Debt Management",
+    "difficulty": "Medium",
+    "explanation": "Sustainable agile delivery requires managing technical debt through dedicated refactoring efforts.",
+    "is_pro": true
+  },
+  {
+    "question": "A key resource is assigned to two high-priority projects simultaneously. What should the project manager do first?",
+    "options": [
+      "Demand exclusive allocation",
+      "Negotiate priorities with stakeholders",
+      "Escalate immediately",
+      "Cancel milestone"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Resource Conflict",
+    "difficulty": "Medium",
+    "explanation": "Negotiation and alignment among stakeholders should precede escalation.",
+    "is_pro": true
+  },
+  {
+    "question": "The project sponsor asks to skip risk identification workshops to save time. What should the project manager do?",
+    "options": [
+      "Agree to save schedule",
+      "Explain importance of proactive risk planning",
+      "Cancel workshops permanently",
+      "Escalate to steering committee"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Identification",
+    "difficulty": "Medium",
+    "explanation": "Proactive risk identification reduces long-term uncertainty and prevents reactive management.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder demands frequent updates beyond agreed frequency. What is the best response?",
+    "options": [
+      "Ignore request",
+      "Adjust communication plan if justified",
+      "Escalate immediately",
+      "Reduce information quality"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Communication Adjustment",
+    "difficulty": "Medium",
+    "explanation": "Communication plans are flexible and should adapt to stakeholder needs when appropriate.",
+    "is_pro": true
+  },
+  {
+    "question": "During integration testing, system performance is below acceptable thresholds. What should the project manager do?",
+    "options": [
+      "Release anyway",
+      "Initiate root cause analysis and corrective action",
+      "Ignore performance",
+      "Close testing phase"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Assurance",
+    "difficulty": "Medium",
+    "explanation": "Performance issues require analysis and corrective measures before release.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member repeatedly resists agile ceremonies. What should the project manager do first?",
+    "options": [
+      "Remove member",
+      "Discuss concerns and clarify value of ceremonies",
+      "Cancel ceremonies",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Agile Adoption",
+    "difficulty": "Medium",
+    "explanation": "Understanding resistance and reinforcing purpose supports smoother agile adoption.",
+    "is_pro": true
+  },
+  {
+    "question": "A regulatory authority requests unexpected documentation during audit. What should the project manager do?",
+    "options": [
+      "Deny request",
+      "Review governance policies and comply accordingly",
+      "Ignore audit",
+      "Close project immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Audit Response",
+    "difficulty": "Medium",
+    "explanation": "Audit responses must align with governance and compliance requirements.",
+    "is_pro": true
+  },
+  {
+    "question": "A deliverable is completed early and under budget. What should the project manager do next?",
+    "options": [
+      "Add new scope",
+      "Validate acceptance and proceed per plan",
+      "Reduce documentation",
+      "Reallocate funds arbitrarily"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Scope Validation",
+    "difficulty": "Medium",
+    "explanation": "Deliverables must be formally validated before proceeding.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder questions project alignment with organizational strategy. What should be referenced?",
+    "options": [
+      "Risk register",
+      "Business case and charter",
+      "Communication log",
+      "Cost baseline"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Strategic Alignment",
+    "difficulty": "Medium",
+    "explanation": "Strategic alignment is defined within the business case and charter.",
+    "is_pro": true
+  },
+
+  {
+    "question": "Two team members disagree on technical implementation approach, causing delays. What should the project manager do first?",
+    "options": [
+      "Select one approach unilaterally",
+      "Facilitate collaborative decision-making session",
+      "Escalate immediately",
+      "Remove both members"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Conflict Facilitation",
+    "difficulty": "Medium",
+    "explanation": "Facilitating collaboration resolves disagreement constructively while preserving morale.",
+    "is_pro": true
+  },
+  {
+    "question": "A project consistently meets schedule targets but exceeds cost estimates. What should be analyzed?",
+    "options": [
+      "Scope creep",
+      "Cost estimation accuracy and resource usage",
+      "Communication gaps",
+      "Stakeholder engagement"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Cost Analysis",
+    "difficulty": "Medium",
+    "explanation": "Repeated cost overruns suggest inaccurate estimates or inefficient resource utilization.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team is uncertain about long-term roadmap goals. What should the project manager encourage?",
+    "options": [
+      "Ignore roadmap",
+      "Align backlog with product vision",
+      "Reduce sprint frequency",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Product Vision Alignment",
+    "difficulty": "Medium",
+    "explanation": "Clear alignment between backlog and vision ensures consistent value delivery.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member raises concerns about unrealistic deadlines. What should the project manager do?",
+    "options": [
+      "Dismiss concern",
+      "Review schedule feasibility and constraints",
+      "Increase workload",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Schedule Negotiation",
+    "difficulty": "Medium",
+    "explanation": "Schedule feasibility should be evaluated to maintain realistic commitments.",
+    "is_pro": true
+  },
+  {
+    "question": "A vendor requests early payment due to cash flow issues. What should the project manager check first?",
+    "options": [
+      "Sponsor preference",
+      "Contractual payment terms",
+      "Team approval",
+      "Risk register"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Contract Compliance",
+    "difficulty": "Medium",
+    "explanation": "Payment schedules must follow contractual agreements.",
+    "is_pro": true
+  },
+  {
+    "question": "Stakeholder engagement drops mid-project. What should the project manager reassess?",
+    "options": [
+      "Budget baseline",
+      "Stakeholder engagement plan",
+      "Risk matrix",
+      "Procurement terms"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Engagement Strategy",
+    "difficulty": "Medium",
+    "explanation": "Engagement plans should be updated when participation declines.",
+    "is_pro": true
+  },
+  {
+    "question": "A change request improves quality but extends schedule slightly. What should guide the decision?",
+    "options": [
+      "Personal preference",
+      "Impact analysis and stakeholder priorities",
+      "Team morale only",
+      "Ignore impact"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Change Impact Evaluation",
+    "difficulty": "Medium",
+    "explanation": "Decision should consider impact analysis and stakeholder priorities.",
+    "is_pro": true
+  },
+  {
+    "question": "A project meets deliverables but fails to achieve expected revenue. What should be reviewed?",
+    "options": [
+      "Risk plan",
+      "Benefits realization and business assumptions",
+      "Communication logs",
+      "Procurement plan"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Benefits Analysis",
+    "difficulty": "Medium",
+    "explanation": "Revenue shortfall indicates assumptions or benefit forecasts require review.",
+    "is_pro": true
+  },
+  {
+    "question": "A team consistently underestimates work effort. What should be improved?",
+    "options": [
+      "Velocity reporting",
+      "Estimation techniques and historical data usage",
+      "Communication frequency",
+      "Sponsor involvement"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Estimation Accuracy",
+    "difficulty": "Medium",
+    "explanation": "Improved estimation practices reduce recurring planning inaccuracies.",
+    "is_pro": true
+  },
+  {
+    "question": "During closure, lessons learned are incomplete. What should the project manager do?",
+    "options": [
+      "Close project anyway",
+      "Facilitate final retrospective and document lessons",
+      "Ignore documentation",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Lessons Learned",
+    "difficulty": "Medium",
+    "explanation": "Lessons learned documentation supports organizational knowledge transfer.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor pressures the team to reduce testing time. What should the project manager do?",
+    "options": [
+      "Agree immediately",
+      "Explain risk impact and quality implications",
+      "Ignore sponsor",
+      "Cancel testing phase"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Governance",
+    "difficulty": "Hard",
+    "explanation": "Reducing testing increases risk. Impact must be communicated transparently.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder provides unclear feedback on deliverables. What should the project manager do?",
+    "options": [
+      "Assume approval",
+      "Clarify expectations and acceptance criteria",
+      "Ignore comment",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Expectation Clarification",
+    "difficulty": "Medium",
+    "explanation": "Clarifying expectations ensures alignment and prevents rework.",
+    "is_pro": true
+  },
+  {
+    "question": "Market volatility increases procurement risk. What should the project manager do?",
+    "options": [
+      "Ignore volatility",
+      "Reassess procurement risk exposure",
+      "Cancel contract",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Procurement Risk",
+    "difficulty": "Medium",
+    "explanation": "External market shifts require updated procurement risk evaluation.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team wants to skip backlog refinement to save time. What should the project manager advise?",
+    "options": [
+      "Approve skipping",
+      "Maintain refinement to ensure clarity and prioritization",
+      "Cancel sprint",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Backlog Management",
+    "difficulty": "Medium",
+    "explanation": "Backlog refinement ensures clarity and prevents misunderstandings.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member requests career growth opportunities within the project. What should the project manager do?",
+    "options": [
+      "Ignore request",
+      "Support development planning and mentoring",
+      "Escalate to HR",
+      "Reassign immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Professional Development",
+    "difficulty": "Medium",
+    "explanation": "Supporting growth improves engagement and performance.",
+    "is_pro": true
+  },
+  {
+    "question": "A project is at risk due to unstable funding. What should the project manager review?",
+    "options": [
+      "Risk response plan and business case viability",
+      "Communication matrix",
+      "Team morale",
+      "Procurement log"
+    ],
+    "correct_answer": 0,
+    "category": "Business Environment",
+    "subcategory": "Funding Risk",
+    "difficulty": "Medium",
+    "explanation": "Funding instability affects project viability and must be assessed strategically.",
+    "is_pro": true
+  },
+  {
+    "question": "Quality audits reveal inconsistent documentation. What should the project manager do?",
+    "options": [
+      "Ignore minor issues",
+      "Implement process improvement and corrective action",
+      "Close audit",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Process Improvement",
+    "difficulty": "Medium",
+    "explanation": "Audit findings require corrective action to maintain governance compliance.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder attempts to bypass the project manager to assign work directly to the team. What should the project manager do?",
+    "options": [
+      "Allow bypass",
+      "Reinforce communication protocols professionally",
+      "Escalate immediately",
+      "Ignore situation"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Authority & Governance",
+    "difficulty": "Hard",
+    "explanation": "Maintaining governance structure ensures clarity and accountability.",
+    "is_pro": true
+  },
+  {
+    "question": "Scope baseline is stable but stakeholder expectations keep shifting. What should the project manager focus on?",
+    "options": [
+      "Schedule compression",
+      "Expectation management and engagement alignment",
+      "Cost reduction",
+      "Procurement change"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Expectation Management",
+    "difficulty": "Medium",
+    "explanation": "Expectation alignment reduces dissatisfaction even when scope is stable.",
+    "is_pro": true
+  },
+  {
+    "question": "Project deliverables meet technical specifications but fail user acceptance testing. What should the project manager do?",
+    "options": [
+      "Close project",
+      "Analyze gap between requirements and user expectations",
+      "Blame quality team",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Validation & Verification",
+    "difficulty": "Medium",
+    "explanation": "Gap analysis ensures alignment between technical and user expectations.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A predictive project experiences repeated delays due to unclear handoffs between teams. What should the project manager implement?",
+    "options": [
+      "Increase overtime",
+      "Define clear interface management and responsibility matrix",
+      "Escalate immediately",
+      "Reduce scope"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Integration Management",
+    "difficulty": "Medium",
+    "explanation": "Clear interface definitions and responsibility assignments prevent delays caused by ambiguous handoffs.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team consistently underdelivers on sprint goals despite realistic estimates. What should the project manager examine first?",
+    "options": [
+      "Stakeholder satisfaction",
+      "Impediments blocking team progress",
+      "Budget baseline",
+      "Procurement performance"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Impediment Removal",
+    "difficulty": "Medium",
+    "explanation": "Persistent underdelivery often signals unresolved impediments affecting team productivity.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor proposes reducing documentation to accelerate project closure. What should the project manager consider?",
+    "options": [
+      "Immediate time savings only",
+      "Governance and compliance requirements",
+      "Team convenience",
+      "Stakeholder preference"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Governance Compliance",
+    "difficulty": "Medium",
+    "explanation": "Documentation requirements are tied to governance and compliance obligations and should not be bypassed without review.",
+    "is_pro": true
+  },
+  {
+    "question": "A change request improves long-term operational efficiency but increases short-term cost. What should guide approval?",
+    "options": [
+      "Immediate budget impact only",
+      "Total lifecycle value and stakeholder priorities",
+      "Team opinion",
+      "Sponsor mood"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Value-Based Decision Making",
+    "difficulty": "Medium",
+    "explanation": "Change decisions should consider lifecycle value and strategic priorities, not only short-term cost.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member with critical expertise becomes disengaged. What should the project manager do first?",
+    "options": [
+      "Replace immediately",
+      "Hold a one-on-one discussion to understand concerns",
+      "Escalate to HR",
+      "Ignore until performance declines"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Motivation & Engagement",
+    "difficulty": "Medium",
+    "explanation": "Early engagement through direct conversation prevents further disengagement and loss of performance.",
+    "is_pro": true
+  },
+  {
+    "question": "During testing, defects cluster around a specific module. What should the project manager recommend?",
+    "options": [
+      "Ignore minor patterns",
+      "Conduct root cause analysis",
+      "Reduce testing effort",
+      "Blame developers"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Analysis",
+    "difficulty": "Medium",
+    "explanation": "Defect clustering suggests systemic issues requiring root cause analysis.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder requests additional features not aligned with business objectives. What should the project manager do?",
+    "options": [
+      "Approve to maintain relationship",
+      "Evaluate alignment with business case before proceeding",
+      "Ignore stakeholder",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Strategic Alignment",
+    "difficulty": "Medium",
+    "explanation": "All enhancements must align with the approved business case and strategic objectives.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team’s retrospective identifies recurring communication gaps. What is the most appropriate action?",
+    "options": [
+      "Cancel retrospectives",
+      "Implement agreed process improvements in next sprint",
+      "Escalate to sponsor",
+      "Ignore findings"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Continuous Improvement",
+    "difficulty": "Medium",
+    "explanation": "Retrospectives drive actionable improvements that should be implemented iteratively.",
+    "is_pro": true
+  },
+  {
+    "question": "A procurement contract includes penalty clauses for late delivery. Vendor delays occur. What should the project manager do?",
+    "options": [
+      "Ignore delay",
+      "Review contract terms and apply remedies appropriately",
+      "Terminate contract immediately",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Contract Administration",
+    "difficulty": "Medium",
+    "explanation": "Contract remedies must be evaluated and applied according to agreed terms.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member challenges project priorities publicly during stakeholder meetings. What should the project manager do?",
+    "options": [
+      "Reprimand publicly",
+      "Discuss concerns privately and align messaging",
+      "Escalate to sponsor",
+      "Remove member from meetings"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Professional Conduct",
+    "difficulty": "Medium",
+    "explanation": "Private discussion maintains professionalism and prevents undermining team cohesion.",
+    "is_pro": true
+  },
+  {
+    "question": "A regulatory compliance update impacts procurement documentation. What should be updated first?",
+    "options": [
+      "Risk register only",
+      "Procurement management plan and contracts if necessary",
+      "Communication log",
+      "Schedule baseline"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Impact",
+    "difficulty": "Medium",
+    "explanation": "Compliance changes may require updates to procurement planning and contractual terms.",
+    "is_pro": true
+  },
+  {
+    "question": "Earned value metrics show stable SPI but declining CPI trend. What should the project manager focus on?",
+    "options": [
+      "Schedule recovery",
+      "Cost control measures",
+      "Scope expansion",
+      "Procurement review only"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Cost Monitoring",
+    "difficulty": "Medium",
+    "explanation": "Declining CPI trend signals deteriorating cost performance requiring corrective action.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member suggests skipping documentation for internal testing. What should the project manager do?",
+    "options": [
+      "Approve skipping",
+      "Reinforce documentation standards for traceability",
+      "Escalate immediately",
+      "Ignore suggestion"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Documentation Control",
+    "difficulty": "Medium",
+    "explanation": "Documentation ensures traceability and compliance even for internal testing.",
+    "is_pro": true
+  },
+  {
+    "question": "Stakeholder satisfaction declines despite meeting scope and schedule targets. What should be reassessed?",
+    "options": [
+      "Benefits realization and stakeholder expectations",
+      "Risk register",
+      "Procurement terms",
+      "Cost baseline"
+    ],
+    "correct_answer": 0,
+    "category": "Business Environment",
+    "subcategory": "Value Perception",
+    "difficulty": "Medium",
+    "explanation": "Meeting scope and schedule does not guarantee perceived value or satisfaction.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team struggles with estimating large backlog items. What technique should be encouraged?",
+    "options": [
+      "Skip estimation",
+      "Break items into smaller user stories",
+      "Escalate to sponsor",
+      "Extend sprint duration"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Agile Planning",
+    "difficulty": "Medium",
+    "explanation": "Breaking work into smaller items improves estimation accuracy and predictability.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member’s performance drops due to personal issues. What should the project manager do?",
+    "options": [
+      "Replace immediately",
+      "Provide support and adjust workload temporarily",
+      "Escalate to HR",
+      "Ignore performance decline"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Empathetic Leadership",
+    "difficulty": "Medium",
+    "explanation": "Empathetic leadership balances performance needs with human considerations.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor proposes accelerating deployment by reducing security checks. What should the project manager do?",
+    "options": [
+      "Agree to meet deadline",
+      "Highlight security risks and compliance impact",
+      "Cancel deployment",
+      "Ignore sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Risk Governance",
+    "difficulty": "Hard",
+    "explanation": "Security reductions increase risk and must be evaluated carefully before decision-making.",
+    "is_pro": true
+  },
+  {
+    "question": "Scope baseline changes frequently due to evolving business needs. What approach is most suitable?",
+    "options": [
+      "Strict predictive control only",
+      "Adopt adaptive or hybrid delivery approach",
+      "Freeze scope permanently",
+      "Escalate every change"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Adaptive Planning",
+    "difficulty": "Medium",
+    "explanation": "Evolving needs may require hybrid or adaptive approaches rather than rigid control.",
+    "is_pro": true
+  },
+  {
+    "question": "Team members avoid raising issues during meetings. What should the project manager encourage?",
+    "options": [
+      "Ignore silence",
+      "Psychological safety and open communication",
+      "Escalate concerns",
+      "Reduce meetings"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Psychological Safety",
+    "difficulty": "Medium",
+    "explanation": "Open communication environments promote proactive issue resolution.",
+    "is_pro": true
+  },
+  {
+    "question": "Project funding depends on milestone completion. A delay threatens funding continuity. What should the project manager do first?",
+    "options": [
+      "Ignore delay",
+      "Assess recovery options and communicate impact to sponsor",
+      "Close project",
+      "Reduce quality standards"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Funding Governance",
+    "difficulty": "Medium",
+    "explanation": "Transparent communication and recovery planning protect funding stability.",
+    "is_pro": true
+  },
+
+  {
+    "question": "During a hybrid project, a senior executive privately instructs a technical lead to reprioritize backlog items without informing the project manager or product owner. The team begins working on unapproved items. What should the project manager do first?",
+    "options": [
+      "Allow work to continue to maintain executive support",
+      "Publicly confront the executive during the next meeting",
+      "Clarify governance roles and reestablish decision-making authority",
+      "Escalate immediately to the board"
+    ],
+    "correct_answer": 2,
+    "category": "People",
+    "subcategory": "Governance & Authority",
+    "difficulty": "Hard",
+    "explanation": "The project manager must first reestablish governance boundaries and clarify roles before escalating. Maintaining structured authority protects project integrity.",
+    "is_pro": true
+  },
+  {
+    "question": "A predictive project is behind schedule and over budget. The sponsor suggests reducing quality inspections to recover timeline. What should the project manager do?",
+    "options": [
+      "Agree to protect delivery date",
+      "Explain quality and risk implications before deciding",
+      "Cancel inspections permanently",
+      "Blame testing team"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Governance",
+    "difficulty": "Hard",
+    "explanation": "Reducing inspections increases risk. The project manager must communicate implications before any adjustment.",
+    "is_pro": true
+  },
+  {
+    "question": "Two regulatory bodies impose conflicting compliance requirements late in execution. What should the project manager do first?",
+    "options": [
+      "Comply with both without analysis",
+      "Assess legal implications and consult governance framework",
+      "Ignore one regulator",
+      "Escalate publicly"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Conflict",
+    "difficulty": "Hard",
+    "explanation": "Conflicting regulations require legal and governance assessment before action.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team inflates story points to appear more productive after management scrutiny. What should the project manager address first?",
+    "options": [
+      "Increase velocity targets",
+      "Reinforce transparency and agile metrics integrity",
+      "Escalate to HR",
+      "Ignore as long as delivery continues"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Ethical Leadership",
+    "difficulty": "Hard",
+    "explanation": "Agile metrics must reflect transparency and integrity. Inflating points undermines empirical control.",
+    "is_pro": true
+  },
+  {
+    "question": "A high-impact risk materializes simultaneously with a major scope change request. Resources are limited. What should guide prioritization?",
+    "options": [
+      "Sponsor preference only",
+      "Impact on strategic objectives and risk exposure",
+      "Team convenience",
+      "Schedule flexibility"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Prioritization Under Constraint",
+    "difficulty": "Hard",
+    "explanation": "Decisions should align with strategic value and risk impact, not convenience.",
+    "is_pro": true
+  },
+  {
+    "question": "A vendor delivers on time but evidence suggests ethical misconduct in subcontracting practices. What should the project manager do?",
+    "options": [
+      "Ignore since delivery met targets",
+      "Report through formal compliance and ethics channels",
+      "Terminate immediately without documentation",
+      "Handle privately"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Ethical Compliance",
+    "difficulty": "Hard",
+    "explanation": "Ethical violations must be handled through formal compliance mechanisms regardless of performance outcomes.",
+    "is_pro": true
+  },
+  {
+    "question": "During a matrix conflict, a functional manager overrides project task assignments causing confusion. What should the project manager do first?",
+    "options": [
+      "Escalate immediately",
+      "Negotiate responsibilities and clarify reporting lines",
+      "Remove team members",
+      "Rebaseline schedule"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Matrix Negotiation",
+    "difficulty": "Hard",
+    "explanation": "Negotiation and clarification should precede escalation in matrix structures.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile product owner consistently prioritizes technically simple features over high-value complex ones. Delivery is smooth but business impact is low. What should the project manager do?",
+    "options": [
+      "Override prioritization publicly",
+      "Coach the product owner on value-based backlog management",
+      "Escalate to sponsor immediately",
+      "Ignore as long as velocity is high"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Value Leadership",
+    "difficulty": "Hard",
+    "explanation": "Coaching supports value alignment while respecting agile roles.",
+    "is_pro": true
+  },
+  {
+    "question": "A change is approved but introduces cascading risks across multiple workstreams. What should the project manager do next?",
+    "options": [
+      "Ignore secondary impacts",
+      "Perform integrated impact reassessment",
+      "Cancel the change",
+      "Blame change control board"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Integrated Change Control",
+    "difficulty": "Hard",
+    "explanation": "Approved changes may require additional integrated analysis to manage cascading impacts.",
+    "is_pro": true
+  },
+  {
+    "question": "Stakeholders demand aggressive timeline compression despite rising defect rates. What should the project manager emphasize?",
+    "options": [
+      "Speed over quality",
+      "Balanced trade-off between scope, cost, time, and quality",
+      "Team overtime",
+      "Reduced documentation"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Triple Constraint",
+    "difficulty": "Hard",
+    "explanation": "Trade-offs must consider all constraints, not just schedule pressure.",
+    "is_pro": true
+  },
+  {
+    "question": "A regulatory audit identifies undocumented scope deviations that improved functionality. What should the project manager do?",
+    "options": [
+      "Justify improvements verbally",
+      "Document deviations and update change records",
+      "Ignore findings",
+      "Blame team"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Audit Governance",
+    "difficulty": "Hard",
+    "explanation": "Even beneficial deviations require formal documentation and governance alignment.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team resists stakeholder feedback due to perceived micromanagement. What should the project manager do?",
+    "options": [
+      "Block stakeholder involvement",
+      "Facilitate transparent collaboration and clarify boundaries",
+      "Escalate immediately",
+      "Ignore tension"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Stakeholder Collaboration",
+    "difficulty": "Hard",
+    "explanation": "Clarifying boundaries maintains collaboration without micromanagement.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor asks to hide cost overrun projections until after quarterly reporting. What should the project manager do?",
+    "options": [
+      "Comply temporarily",
+      "Provide transparent reporting aligned with ethical standards",
+      "Delay reporting",
+      "Blame finance team"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Ethical Reporting",
+    "difficulty": "Hard",
+    "explanation": "Transparent and ethical reporting is mandatory regardless of sponsor pressure.",
+    "is_pro": true
+  },
+  {
+    "question": "During backlog refinement, dependencies between two agile teams create systemic delays. What should the project manager do?",
+    "options": [
+      "Increase sprint duration",
+      "Implement cross-team coordination and dependency mapping",
+      "Ignore delays",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Dependency Management",
+    "difficulty": "Hard",
+    "explanation": "Dependency mapping and coordination reduce systemic delays.",
+    "is_pro": true
+  },
+  {
+    "question": "A key assumption in the business case proves inaccurate, reducing projected ROI significantly. What should the project manager do?",
+    "options": [
+      "Ignore ROI change",
+      "Reevaluate project viability with sponsor",
+      "Close project immediately",
+      "Adjust documentation quietly"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Business Case Reassessment",
+    "difficulty": "Hard",
+    "explanation": "Significant ROI changes require reassessment with sponsor and governance review.",
+    "is_pro": true
+  },
+  {
+    "question": "A highly skilled team member bypasses peer reviews to accelerate delivery. What should the project manager do?",
+    "options": [
+      "Allow behavior due to expertise",
+      "Reinforce process discipline and quality standards",
+      "Escalate to sponsor",
+      "Ignore as long as delivery continues"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Discipline",
+    "difficulty": "Hard",
+    "explanation": "Process discipline ensures consistent quality regardless of individual expertise.",
+    "is_pro": true
+  },
+  {
+    "question": "Two influential stakeholders provide contradictory strategic direction. What should the project manager do first?",
+    "options": [
+      "Choose one direction",
+      "Facilitate strategic alignment discussion",
+      "Escalate to board",
+      "Pause project indefinitely"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Strategic Conflict",
+    "difficulty": "Hard",
+    "explanation": "Alignment discussion should precede escalation to maintain collaborative governance.",
+    "is_pro": true
+  },
+  {
+    "question": "During project closure, operational teams resist accepting deliverables. What should the project manager prioritize?",
+    "options": [
+      "Force handover",
+      "Engage stakeholders and validate transition readiness",
+      "Close project anyway",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Transition Management",
+    "difficulty": "Hard",
+    "explanation": "Effective transition requires stakeholder readiness and engagement.",
+    "is_pro": true
+  },
+  {
+    "question": "An adaptive project operates in a highly regulated industry. Agile speed conflicts with documentation mandates. What should the project manager do?",
+    "options": [
+      "Ignore regulation",
+      "Integrate compliance artifacts within agile workflow",
+      "Switch to fully predictive",
+      "Escalate to regulator"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Hybrid Compliance",
+    "difficulty": "Hard",
+    "explanation": "Compliance can be embedded within agile processes without abandoning adaptability.",
+    "is_pro": true
+  },
+  {
+    "question": "Project metrics show strong delivery performance but declining team engagement scores. What should the project manager address first?",
+    "options": [
+      "Ignore engagement metrics",
+      "Investigate root causes and reinforce sustainable pace",
+      "Increase performance targets",
+      "Reduce stakeholder involvement"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Sustainable Leadership",
+    "difficulty": "Hard",
+    "explanation": "Sustainable performance requires healthy engagement levels; root cause investigation is essential.",
+    "is_pro": true
+  },
+
+  {
+  "question": "A project manager discovers that a key milestone was marked complete without meeting all acceptance criteria. What should be done first?",
+  "options": [
+    "Ignore since milestone was approved",
+    "Verify deliverable against acceptance criteria and initiate corrective action",
+    "Blame quality team",
+    "Escalate immediately"
+  ],
+  "correct_answer": 1,
+  "category": "Process",
+  "subcategory": "Scope Validation",
+  "difficulty": "Medium",
+  "explanation": "Milestones must meet defined acceptance criteria. Verification and corrective action maintain governance integrity.",
+  "is_pro": true
+  },
+
+  {
+    "question": "An agile team repeatedly carries unfinished work into the next sprint. What should the project manager address?",
+    "options": [
+      "Increase sprint length",
+      "Improve sprint planning and capacity estimation",
+      "Escalate to sponsor",
+      "Reduce quality standards"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Sprint Planning",
+    "difficulty": "Medium",
+    "explanation": "Recurring carryover suggests overcommitment or inaccurate estimation.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder questions the value of risk management activities. What should the project manager emphasize?",
+    "options": [
+      "Risk planning delays progress",
+      "Proactive risk management reduces uncertainty and cost",
+      "Ignore the concern",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Stakeholder Education",
+    "difficulty": "Medium",
+    "explanation": "Risk management prevents reactive crisis handling and cost escalation.",
+    "is_pro": true
+  },
+  {
+    "question": "A regulatory deadline conflicts with planned deployment schedule. What should guide the decision?",
+    "options": [
+      "Team preference",
+      "Compliance priority and risk exposure",
+      "Budget convenience",
+      "Ignore deadline"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Prioritization",
+    "difficulty": "Hard",
+    "explanation": "Regulatory obligations override convenience and must be prioritized.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor pressures the team to accept a vendor proposal without competitive review. What should the project manager do?",
+    "options": [
+      "Approve immediately",
+      "Ensure procurement policies and due diligence are followed",
+      "Ignore procurement policy",
+      "Blame finance"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Procurement Ethics",
+    "difficulty": "Hard",
+    "explanation": "Procurement decisions must comply with governance and ethical standards.",
+    "is_pro": true
+  },
+  {
+    "question": "A distributed agile team experiences declining trust between developers and testers. What should the project manager do?",
+    "options": [
+      "Separate the groups",
+      "Encourage cross-functional collaboration and shared ownership",
+      "Escalate to sponsor",
+      "Ignore conflict"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Collaboration",
+    "difficulty": "Medium",
+    "explanation": "Cross-functional collaboration improves trust and shared accountability.",
+    "is_pro": true
+  },
+  {
+    "question": "A project’s CPI trend improves but SPI continues to decline. What should be prioritized?",
+    "options": [
+      "Cost optimization",
+      "Schedule recovery strategies",
+      "Scope expansion",
+      "Risk closure"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Performance Monitoring",
+    "difficulty": "Medium",
+    "explanation": "Improved cost performance does not resolve schedule slippage.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member identifies a potential innovation that may disrupt current baseline but improve long-term performance. What should be done?",
+    "options": [
+      "Reject immediately",
+      "Evaluate through change control and impact analysis",
+      "Implement informally",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Innovation Governance",
+    "difficulty": "Medium",
+    "explanation": "Innovations must be formally evaluated before altering baseline.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor asks to delay documenting lessons learned to save time. What should the project manager do?",
+    "options": [
+      "Agree temporarily",
+      "Ensure lessons learned are documented before closure",
+      "Ignore documentation",
+      "Blame PMO"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Knowledge Management",
+    "difficulty": "Medium",
+    "explanation": "Lessons learned capture organizational knowledge and should not be skipped.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder introduces conflicting requirements after scope baseline approval. What should the project manager do first?",
+    "options": [
+      "Reject outright",
+      "Initiate formal change request process",
+      "Escalate to sponsor",
+      "Implement immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Scope Governance",
+    "difficulty": "Medium",
+    "explanation": "Baseline changes require formal evaluation through change control.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team’s velocity increases dramatically after reducing testing time. What should the project manager verify?",
+    "options": [
+      "Cost savings",
+      "Impact on quality and defect rates",
+      "Team morale only",
+      "Sponsor satisfaction"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality in Agile",
+    "difficulty": "Hard",
+    "explanation": "Artificial velocity increases may signal compromised quality.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder bypasses governance channels to request urgent feature changes. What should the project manager do?",
+    "options": [
+      "Implement to maintain relationship",
+      "Redirect request through proper change process",
+      "Escalate publicly",
+      "Ignore request"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Governance Enforcement",
+    "difficulty": "Medium",
+    "explanation": "Maintaining governance integrity ensures controlled decision-making.",
+    "is_pro": true
+  },
+  {
+    "question": "A project nearing closure has unresolved minor defects. What should the project manager do?",
+    "options": [
+      "Ignore minor defects",
+      "Assess severity and obtain stakeholder agreement on disposition",
+      "Close immediately",
+      "Blame QA"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Defect Management",
+    "difficulty": "Medium",
+    "explanation": "Stakeholders must agree on defect disposition before closure.",
+    "is_pro": true
+  },
+  {
+    "question": "A new competitor enters the market during execution, reducing projected value. What should the project manager review?",
+    "options": [
+      "Risk register only",
+      "Business case and strategic alignment",
+      "Communication log",
+      "Procurement contracts"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Market Risk",
+    "difficulty": "Hard",
+    "explanation": "External market changes may affect business case viability.",
+    "is_pro": true
+  },
+  {
+    "question": "Team members report burnout during final delivery phase. What should the project manager do?",
+    "options": [
+      "Increase deadlines",
+      "Rebalance workload and encourage sustainable pace",
+      "Ignore complaints",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Sustainable Pace",
+    "difficulty": "Medium",
+    "explanation": "Sustainable pace prevents long-term performance decline.",
+    "is_pro": true
+  },
+  {
+    "question": "A change improves functionality but violates regulatory documentation standards. What should be done?",
+    "options": [
+      "Implement anyway",
+      "Ensure compliance requirements are satisfied before approval",
+      "Ignore documentation",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Compliance Governance",
+    "difficulty": "Hard",
+    "explanation": "Compliance requirements cannot be bypassed even for functional improvements.",
+    "is_pro": true
+  },
+  {
+    "question": "During risk review, several risks are no longer relevant. What should the project manager do?",
+    "options": [
+      "Leave unchanged",
+      "Update risk register and close obsolete risks",
+      "Ignore review",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Monitoring",
+    "difficulty": "Medium",
+    "explanation": "Risk registers must reflect current project conditions.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member resists feedback during performance review. What should the project manager do?",
+    "options": [
+      "Publicly criticize",
+      "Provide constructive, evidence-based feedback privately",
+      "Escalate immediately",
+      "Ignore performance"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Performance Coaching",
+    "difficulty": "Medium",
+    "explanation": "Constructive private feedback fosters improvement without damaging morale.",
+    "is_pro": true
+  },
+  {
+    "question": "Stakeholders demand additional features without increasing budget or schedule. What should the project manager emphasize?",
+    "options": [
+      "Add features regardless",
+      "Trade-off analysis across constraints",
+      "Ignore request",
+      "Reduce documentation"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Constraint Management",
+    "difficulty": "Hard",
+    "explanation": "Scope additions require adjustments to other constraints.",
+    "is_pro": true
+  },
+  {
+    "question": "Project performance metrics are positive but customer satisfaction remains low. What should the project manager evaluate?",
+    "options": [
+      "Cost variance only",
+      "Perceived value and stakeholder expectations",
+      "Procurement terms",
+      "Team morale"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Customer Value",
+    "difficulty": "Medium",
+    "explanation": "Performance metrics do not always reflect perceived value.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team wants to shorten sprint duration due to pressure. What should the project manager assess first?",
+    "options": [
+      "Sponsor expectations",
+      "Impact on velocity stability and team capacity",
+      "Budget baseline",
+      "Procurement schedule"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Sprint Cadence",
+    "difficulty": "Medium",
+    "explanation": "Sprint duration affects predictability and team rhythm.",
+    "is_pro": true
+  },
+  {
+    "question": "A high-risk change is proposed late in execution. What should guide the decision?",
+    "options": [
+      "Urgency only",
+      "Comprehensive impact and risk assessment",
+      "Team enthusiasm",
+      "Ignore risk"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Late Change Evaluation",
+    "difficulty": "Hard",
+    "explanation": "Late-stage changes require rigorous impact analysis due to elevated risk.",
+    "is_pro": true
+  },
+  {
+    "question": "A project’s ROI forecast declines due to inflation. What should the project manager do?",
+    "options": [
+      "Ignore economic changes",
+      "Reevaluate business assumptions with sponsor",
+      "Close project",
+      "Blame finance"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Economic Risk",
+    "difficulty": "Medium",
+    "explanation": "External economic shifts may require reassessment of viability.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder demands confidential information beyond authorized access. What should the project manager do?",
+    "options": [
+      "Provide information",
+      "Follow information governance and confidentiality policies",
+      "Escalate publicly",
+      "Ignore stakeholder"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Information Governance",
+    "difficulty": "Hard",
+    "explanation": "Confidential information must be handled according to governance policies.",
+    "is_pro": true
+  },
+  {
+    "question": "Multiple minor scope adjustments collectively threaten baseline stability. What should the project manager do?",
+    "options": [
+      "Ignore minor changes",
+      "Conduct cumulative impact analysis",
+      "Escalate immediately",
+      "Freeze scope permanently"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Cumulative Impact Review",
+    "difficulty": "Hard",
+    "explanation": "Small changes may collectively affect baseline and require integrated review.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member challenges ethical decision-making in a vendor contract. What should the project manager do?",
+    "options": [
+      "Ignore challenge",
+      "Review ethical standards and compliance requirements",
+      "Terminate contract immediately",
+      "Escalate without review"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Ethical Decision-Making",
+    "difficulty": "Hard",
+    "explanation": "Ethical concerns must be evaluated carefully through compliance mechanisms.",
+    "is_pro": true
+  },
+  {
+    "question": "Project stakeholders disagree on definition of project success. What should the project manager do first?",
+    "options": [
+      "Choose one definition",
+      "Facilitate alignment and clarify success criteria",
+      "Escalate immediately",
+      "Ignore disagreement"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Success Criteria Alignment",
+    "difficulty": "Medium",
+    "explanation": "Clear shared definition of success prevents misaligned expectations.",
+    "is_pro": true
+  },
+  {
+    "question": "A vendor proposes accelerating delivery with reduced oversight. What should the project manager evaluate?",
+    "options": [
+      "Time savings only",
+      "Impact on governance and risk exposure",
+      "Team workload",
+      "Sponsor mood"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Oversight Risk",
+    "difficulty": "Hard",
+    "explanation": "Reduced oversight may increase risk and compliance issues.",
+    "is_pro": true
+  },
+  {
+    "question": "Project metrics show excellent progress but rising unresolved risks. What should the project manager prioritize?",
+    "options": [
+      "Schedule acceleration",
+      "Active risk response and monitoring",
+      "Scope expansion",
+      "Budget reallocation"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Governance",
+    "difficulty": "Hard",
+    "explanation": "Unresolved risks threaten long-term success despite positive metrics.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder pressures the team to release incomplete documentation for marketing purposes. What should the project manager do?",
+    "options": [
+      "Approve for visibility",
+      "Ensure documentation accuracy before release",
+      "Ignore documentation quality",
+      "Escalate without review"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Transparency & Accuracy",
+    "difficulty": "Hard",
+    "explanation": "Accurate documentation protects credibility and governance integrity.",
+    "is_pro": true
+  },
+
+  {
+  "question": "A key stakeholder begins bypassing the project manager and directly assigning tasks to team members. What should the project manager do first?",
+  "options": [
+    "Escalate to sponsor immediately",
+    "Clarify governance structure and communication protocols with the stakeholder",
+    "Ignore the behavior",
+    "Remove team members from stakeholder interaction"
+  ],
+  "correct_answer": 1,
+  "category": "People",
+  "subcategory": "Governance Enforcement",
+  "difficulty": "Hard",
+  "explanation": "Clarifying governance and communication channels preserves authority while maintaining professional relationships.",
+  "is_pro": true
+  },
+
+  {
+    "question": "During sprint review, stakeholders request a feature not aligned with product vision. What should the project manager do?",
+    "options": [
+      "Add feature immediately",
+      "Evaluate alignment with product roadmap before backlog inclusion",
+      "Reject publicly",
+      "Escalate without review"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Product Vision Alignment",
+    "difficulty": "Medium",
+    "explanation": "Backlog changes must align with product vision and long-term strategy.",
+    "is_pro": true
+  },
+  {
+    "question": "A predictive project experiences recurring rework due to misunderstood requirements. What should be strengthened?",
+    "options": [
+      "Schedule compression",
+      "Requirements validation and stakeholder engagement",
+      "Procurement oversight",
+      "Cost monitoring"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Requirements Management",
+    "difficulty": "Medium",
+    "explanation": "Recurring rework signals gaps in requirements clarity and validation.",
+    "is_pro": true
+  },
+  {
+    "question": "A project sponsor pressures the team to underreport risk severity to maintain executive confidence. What should the project manager do?",
+    "options": [
+      "Comply temporarily",
+      "Maintain transparent and accurate risk reporting",
+      "Remove risks from register",
+      "Delay reporting"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Ethical Reporting",
+    "difficulty": "Hard",
+    "explanation": "Ethical responsibility requires accurate and transparent reporting regardless of pressure.",
+    "is_pro": true
+  },
+  {
+    "question": "A vendor consistently meets deadlines but quality complaints increase. What should the project manager prioritize?",
+    "options": [
+      "Reward speed",
+      "Initiate quality audit and corrective action",
+      "Increase workload",
+      "Ignore minor complaints"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Assurance",
+    "difficulty": "Medium",
+    "explanation": "Delivery speed must not compromise quality standards.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team resists updating documentation. What should the project manager emphasize?",
+    "options": [
+      "Documentation is unnecessary",
+      "Lightweight documentation supports sustainability and compliance",
+      "Escalate to sponsor",
+      "Remove documentation requirement"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Agile Governance",
+    "difficulty": "Medium",
+    "explanation": "Agile promotes working software but still values appropriate documentation.",
+    "is_pro": true
+  },
+  {
+    "question": "A regulatory change impacts project deliverables mid-execution. What should be done first?",
+    "options": [
+      "Ignore change",
+      "Conduct impact analysis and initiate formal change control",
+      "Close project",
+      "Rebaseline without approval"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Change",
+    "difficulty": "Hard",
+    "explanation": "Regulatory changes require formal evaluation and controlled adjustment.",
+    "is_pro": true
+  },
+  {
+    "question": "A high-performing team member begins dominating decision discussions. What should the project manager do?",
+    "options": [
+      "Encourage dominance",
+      "Facilitate balanced participation in discussions",
+      "Remove member",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Dynamics",
+    "difficulty": "Medium",
+    "explanation": "Balanced participation ensures inclusive decision-making and team morale.",
+    "is_pro": true
+  },
+  {
+    "question": "Earned value metrics show CPI and SPI both below 1. What should be addressed first?",
+    "options": [
+      "Expand scope",
+      "Investigate root causes of cost and schedule variance",
+      "Ignore variance",
+      "Add resources blindly"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Performance Analysis",
+    "difficulty": "Medium",
+    "explanation": "Understanding root causes is essential before corrective action.",
+    "is_pro": true
+  },
+  {
+    "question": "Stakeholders disagree on project priority within portfolio. What should the project manager reference?",
+    "options": [
+      "Personal opinion",
+      "Portfolio governance and strategic objectives",
+      "Team preference",
+      "Cost baseline"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Portfolio Alignment",
+    "difficulty": "Hard",
+    "explanation": "Portfolio governance determines prioritization based on strategy.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team’s velocity fluctuates significantly each sprint. What should be examined?",
+    "options": [
+      "Budget allocation",
+      "Stability of team composition and estimation accuracy",
+      "Sponsor involvement",
+      "Marketing feedback"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Agile Performance",
+    "difficulty": "Medium",
+    "explanation": "Velocity instability often relates to team changes or inconsistent estimation.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor demands immediate rebaseline without analyzing deviation causes. What should the project manager do?",
+    "options": [
+      "Rebaseline instantly",
+      "Perform root cause analysis before rebaselining",
+      "Ignore sponsor",
+      "Close project"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Baseline Control",
+    "difficulty": "Hard",
+    "explanation": "Rebaselining should follow proper analysis, not replace corrective action.",
+    "is_pro": true
+  },
+  {
+    "question": "A cross-functional team struggles with unclear decision authority. What should be clarified?",
+    "options": [
+      "Budget baseline",
+      "Decision-making framework and escalation path",
+      "Risk tolerance",
+      "Schedule compression"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Decision Governance",
+    "difficulty": "Medium",
+    "explanation": "Clear authority prevents delays and confusion.",
+    "is_pro": true
+  },
+  {
+    "question": "During audit, undocumented assumptions are discovered. What should the project manager do?",
+    "options": [
+      "Ignore assumptions",
+      "Document assumptions and assess impact",
+      "Blame analyst",
+      "Close audit early"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Audit Compliance",
+    "difficulty": "Hard",
+    "explanation": "Undocumented assumptions create governance and risk exposure.",
+    "is_pro": true
+  },
+  {
+    "question": "A team requests additional resources to meet unrealistic deadline imposed externally. What should the project manager do first?",
+    "options": [
+      "Add resources immediately",
+      "Perform schedule impact analysis",
+      "Ignore deadline",
+      "Reduce quality"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Schedule Control",
+    "difficulty": "Medium",
+    "explanation": "Impact analysis informs realistic response to external pressure.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder disputes reported performance metrics. What should the project manager do?",
+    "options": [
+      "Dismiss concern",
+      "Review data sources and validate metrics transparently",
+      "Escalate immediately",
+      "Modify metrics informally"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Transparency",
+    "difficulty": "Medium",
+    "explanation": "Transparency maintains trust and data integrity.",
+    "is_pro": true
+  },
+  {
+    "question": "A change improves stakeholder satisfaction but increases operational complexity. What should guide decision?",
+    "options": [
+      "Stakeholder happiness only",
+      "Long-term operational sustainability",
+      "Team enthusiasm",
+      "Immediate cost"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Value Trade-off",
+    "difficulty": "Hard",
+    "explanation": "Long-term sustainability must be considered alongside short-term gains.",
+    "is_pro": true
+  },
+  {
+    "question": "A new compliance regulation requires additional reporting mid-project. What should be updated?",
+    "options": [
+      "Ignore requirement",
+      "Communication and compliance management plans",
+      "Schedule only",
+      "Risk register only"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Compliance Planning",
+    "difficulty": "Medium",
+    "explanation": "Compliance impacts planning and reporting frameworks.",
+    "is_pro": true
+  },
+  {
+    "question": "Multiple stakeholders provide conflicting feedback during validation. What should the project manager do?",
+    "options": [
+      "Choose majority opinion",
+      "Facilitate alignment meeting to reconcile expectations",
+      "Escalate immediately",
+      "Ignore conflict"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Stakeholder Alignment",
+    "difficulty": "Hard",
+    "explanation": "Alignment ensures shared understanding before acceptance.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A predictive project is 70% complete when the sponsor requests removal of a previously approved feature to accelerate delivery. The removed feature impacts integration dependencies already developed. What should the project manager do first?",
+    "options": [
+      "Remove the feature immediately to save time",
+      "Conduct impact analysis and submit change through integrated change control",
+      "Ignore the request",
+      "Rebaseline without approval"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Integrated Change Control",
+    "difficulty": "Hard",
+    "explanation": "Even scope reduction requires formal change control, especially when integration dependencies are affected.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team delivers increments successfully, but stakeholders complain that strategic KPIs are not improving. What should the project manager evaluate first?",
+    "options": [
+      "Team velocity",
+      "Budget consumption",
+      "Alignment between backlog prioritization and business objectives",
+      "Sprint duration"
+    ],
+    "correct_answer": 2,
+    "category": "Business Environment",
+    "subcategory": "Strategic Alignment",
+    "difficulty": "Hard",
+    "explanation": "Successful increments must align with measurable business value and KPIs, not just technical completion.",
+    "is_pro": true
+  },
+  {
+    "question": "A high-impact risk was accepted earlier due to low probability. Market conditions shift, increasing its likelihood significantly. What should the project manager do?",
+    "options": [
+      "Keep original decision",
+      "Reassess probability and update response strategy",
+      "Ignore change",
+      "Escalate without analysis"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Monitoring",
+    "difficulty": "Hard",
+    "explanation": "Risk management is iterative. Changing probability requires reassessment and updated response planning.",
+    "is_pro": true
+  },
+  {
+    "question": "A senior executive bypasses governance and instructs direct implementation of an unapproved feature. The team feels pressured. What should the project manager do first?",
+    "options": [
+      "Implement immediately",
+      "Remind executive of governance process and initiate formal review",
+      "Escalate to HR",
+      "Ignore instruction"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Governance Enforcement",
+    "difficulty": "Hard",
+    "explanation": "Governance must be upheld even under executive pressure. Formal review protects project integrity.",
+    "is_pro": true
+  },
+  {
+    "question": "Earned value analysis shows CPI > 1.1 and SPI < 0.85 for three consecutive cycles. What is the most likely interpretation?",
+    "options": [
+      "Project is financially healthy but facing schedule inefficiencies",
+      "Project is failing completely",
+      "Project is ahead of schedule",
+      "Metrics are irrelevant"
+    ],
+    "correct_answer": 0,
+    "category": "Process",
+    "subcategory": "Earned Value Analysis",
+    "difficulty": "Hard",
+    "explanation": "CPI > 1 indicates cost efficiency, while SPI < 1 indicates schedule delay.",
+    "is_pro": true
+  },
+  {
+    "question": "A vendor dispute arises regarding interpretation of acceptance criteria. Contract language is ambiguous. What should the project manager do first?",
+    "options": [
+      "Terminate contract",
+      "Escalate legally",
+      "Review contract terms and facilitate clarification discussion",
+      "Approve deliverables"
+    ],
+    "correct_answer": 2,
+    "category": "Process",
+    "subcategory": "Procurement Governance",
+    "difficulty": "Hard",
+    "explanation": "Collaborative clarification aligned with contract terms should precede escalation or termination.",
+    "is_pro": true
+  },
+  {
+    "question": "A team consistently meets deadlines but employee turnover increases. Exit interviews cite burnout. What should the project manager prioritize?",
+    "options": [
+      "Increase productivity targets",
+      "Assess workload sustainability and adjust planning",
+      "Ignore turnover",
+      "Replace resources quickly"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Sustainability",
+    "difficulty": "Hard",
+    "explanation": "Long-term sustainability is critical; burnout undermines performance and retention.",
+    "is_pro": true
+  },
+  {
+    "question": "Late in execution, regulatory policy changes introduce new compliance reporting. Implementation requires moderate effort. What should the project manager do first?",
+    "options": [
+      "Implement immediately",
+      "Submit change request after impact assessment",
+      "Ignore until audit",
+      "Close project"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Change",
+    "difficulty": "Hard",
+    "explanation": "Compliance changes require formal evaluation and change control before implementation.",
+    "is_pro": true
+  },
+  {
+    "question": "Two influential stakeholders disagree on project success criteria. Both threaten escalation. What is the best first step?",
+    "options": [
+      "Choose the more powerful stakeholder",
+      "Facilitate structured alignment session",
+      "Escalate immediately",
+      "Ignore disagreement"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Stakeholder Alignment",
+    "difficulty": "Hard",
+    "explanation": "Facilitated alignment protects neutrality and maintains governance integrity.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team proposes increasing sprint scope mid-iteration due to early completion of tasks. What should the project manager do?",
+    "options": [
+      "Approve additional scope immediately",
+      "Maintain sprint commitment and adjust in next iteration",
+      "Escalate",
+      "Cancel sprint"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Agile Scope Discipline",
+    "difficulty": "Hard",
+    "explanation": "Scope should remain stable during sprint; adjustments occur in next planning cycle.",
+    "is_pro": true
+  },
+  {
+    "question": "Project funding is milestone-based. A delay in one milestone risks suspension of funds. What should the project manager do first?",
+    "options": [
+      "Hide delay",
+      "Assess recovery options and communicate transparently",
+      "Reduce quality",
+      "Close project"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Financial Governance",
+    "difficulty": "Hard",
+    "explanation": "Transparent communication and recovery planning protect stakeholder trust and funding continuity.",
+    "is_pro": true
+  },
+  {
+    "question": "A key assumption documented during initiation proves invalid mid-project, affecting scope feasibility. What should the project manager do?",
+    "options": [
+      "Ignore assumption",
+      "Reassess business case and impact",
+      "Blame sponsor",
+      "Proceed unchanged"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Business Case Governance",
+    "difficulty": "Hard",
+    "explanation": "Invalid assumptions require reassessment of feasibility and potential project justification.",
+    "is_pro": true
+  },
+  {
+    "question": "Multiple integration defects appear near release date. Fixing all may delay launch. What should guide decision?",
+    "options": [
+      "Sponsor pressure",
+      "Defect impact prioritization and risk assessment",
+      "Team preference",
+      "Schedule only"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Quality Governance",
+    "difficulty": "Hard",
+    "explanation": "Defects should be prioritized based on business impact and risk exposure.",
+    "is_pro": true
+  },
+  {
+    "question": "A functional manager demands authority over technical decisions in exchange for additional resources to recover schedule. What should the project manager do first?",
+    "options": [
+      "Accept immediately",
+      "Evaluate governance implications and negotiate role clarity",
+      "Reject offer",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Authority & Negotiation",
+    "difficulty": "Hard",
+    "explanation": "Role clarity and governance alignment must be evaluated before accepting resource trade-offs.",
+    "is_pro": true
+  },
+
+  {
+    "question": "A project sponsor requests compressing the schedule without adjusting scope or budget. What should the project manager do first?",
+    "options": [
+      "Agree immediately",
+      "Perform schedule compression impact analysis",
+      "Reduce quality standards",
+      "Escalate to steering committee"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Schedule Compression",
+    "difficulty": "Medium",
+    "explanation": "Before compressing the schedule, impact analysis such as fast tracking or crashing evaluation must be performed.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team struggles with unclear user stories during sprint planning. What should the project manager encourage?",
+    "options": [
+      "Increase sprint duration",
+      "Improve backlog refinement sessions",
+      "Skip sprint planning",
+      "Escalate to sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Backlog Refinement",
+    "difficulty": "Medium",
+    "explanation": "Clear user stories and refinement reduce ambiguity and improve sprint commitment reliability.",
+    "is_pro": true
+  },
+  {
+    "question": "A high-impact risk has a mitigation strategy that significantly increases cost. What should guide the decision?",
+    "options": [
+      "Sponsor preference only",
+      "Cost-benefit and risk exposure analysis",
+      "Team opinion",
+      "Schedule convenience"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Risk Mitigation",
+    "difficulty": "Medium",
+    "explanation": "Mitigation decisions must weigh mitigation cost against potential risk exposure.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder repeatedly bypasses communication channels and contacts team members directly. What should the project manager do?",
+    "options": [
+      "Ignore behavior",
+      "Reinforce communication management plan expectations",
+      "Remove stakeholder access",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Communication Governance",
+    "difficulty": "Medium",
+    "explanation": "Reinforcing agreed communication protocols protects clarity and reduces confusion.",
+    "is_pro": true
+  },
+  {
+    "question": "SPI is 0.87 and trending downward. What should the project manager prioritize?",
+    "options": [
+      "Scope expansion",
+      "Schedule recovery strategy",
+      "Cost reduction only",
+      "Procurement renegotiation"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Schedule Control",
+    "difficulty": "Medium",
+    "explanation": "SPI below 1 indicates schedule slippage requiring recovery actions.",
+    "is_pro": true
+  },
+  {
+    "question": "A project is under budget but stakeholder satisfaction is declining. What should the project manager evaluate?",
+    "options": [
+      "Cost baseline only",
+      "Value delivery and expectation alignment",
+      "Procurement contracts",
+      "Risk register"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Stakeholder Value",
+    "difficulty": "Medium",
+    "explanation": "Cost performance does not guarantee value delivery or stakeholder satisfaction.",
+    "is_pro": true
+  },
+  {
+    "question": "A team member consistently challenges decisions constructively. What leadership action is appropriate?",
+    "options": [
+      "Discourage dissent",
+      "Encourage healthy debate and psychological safety",
+      "Escalate behavior",
+      "Remove from discussions"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Team Culture",
+    "difficulty": "Medium",
+    "explanation": "Constructive debate strengthens decision quality and innovation.",
+    "is_pro": true
+  },
+  {
+    "question": "A regulatory change requires additional documentation. What should occur first?",
+    "options": [
+      "Immediate implementation",
+      "Impact assessment and change request submission",
+      "Ignore until audit",
+      "Close project"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Regulatory Governance",
+    "difficulty": "Medium",
+    "explanation": "All regulatory impacts must be assessed before modifying scope or deliverables.",
+    "is_pro": true
+  },
+  {
+    "question": "An agile team finishes sprint goals early. What should the project manager recommend?",
+    "options": [
+      "Add unplanned scope immediately",
+      "Pull prioritized backlog items after team agreement",
+      "End sprint early permanently",
+      "Increase workload expectations"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Agile Flow",
+    "difficulty": "Medium",
+    "explanation": "Teams may pull prioritized backlog items while respecting sprint discipline.",
+    "is_pro": true
+  },
+  {
+    "question": "A vendor consistently misses minor quality standards but meets deadlines. What should the project manager review?",
+    "options": [
+      "Payment schedule only",
+      "Quality clauses and acceptance criteria",
+      "Sponsor relationship",
+      "Team performance"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Procurement Quality",
+    "difficulty": "Medium",
+    "explanation": "Vendor performance must be evaluated against agreed quality requirements.",
+    "is_pro": true
+  },
+  {
+    "question": "A stakeholder demands real-time reporting beyond agreed cadence. What should the project manager do?",
+    "options": [
+      "Ignore request",
+      "Evaluate impact and adjust communication plan formally",
+      "Escalate immediately",
+      "Remove stakeholder"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Communication Management",
+    "difficulty": "Medium",
+    "explanation": "Communication plans may be updated formally if beneficial and feasible.",
+    "is_pro": true
+  },
+  {
+    "question": "A hybrid project shows strong technical progress but weak user adoption. What should be reviewed?",
+    "options": [
+      "Schedule baseline",
+      "Change management and benefits realization strategy",
+      "Procurement plan",
+      "Cost variance"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Adoption Strategy",
+    "difficulty": "Medium",
+    "explanation": "Technical success does not ensure adoption without proper change management.",
+    "is_pro": true
+  },
+  {
+    "question": "A key assumption documented in initiation becomes invalid. What is the first action?",
+    "options": [
+      "Ignore it",
+      "Reassess impact and update risk register",
+      "Blame sponsor",
+      "Close project"
+    ],
+    "correct_answer": 1,
+    "category": "Process",
+    "subcategory": "Assumption Analysis",
+    "difficulty": "Medium",
+    "explanation": "Invalid assumptions require reassessment and potential corrective actions.",
+    "is_pro": true
+  },
+  {
+    "question": "CPI is 1.08 and SPI is 0.90. What does this indicate?",
+    "options": [
+      "Under budget but behind schedule",
+      "Over budget and ahead of schedule",
+      "On budget and on schedule",
+      "Critical failure"
+    ],
+    "correct_answer": 0,
+    "category": "Process",
+    "subcategory": "Earned Value",
+    "difficulty": "Medium",
+    "explanation": "CPI above 1 indicates cost efficiency; SPI below 1 indicates schedule delay.",
+    "is_pro": true
+  },
+  {
+    "question": "Frequent scope changes are demotivating the team. What should the project manager address?",
+    "options": [
+      "Increase overtime",
+      "Strengthen change control discipline",
+      "Reduce stakeholder involvement",
+      "Escalate immediately"
+    ],
+    "correct_answer": 1,
+    "category": "People",
+    "subcategory": "Change Fatigue",
+    "difficulty": "Medium",
+    "explanation": "Disciplined change control reduces disruption and improves team morale.",
+    "is_pro": true
+  },
+  {
+    "question": "A sponsor requests omission of risk data in executive reports. What should the project manager do?",
+    "options": [
+      "Comply to maintain relationship",
+      "Ensure transparent and accurate reporting",
+      "Remove risks from register",
+      "Ignore sponsor"
+    ],
+    "correct_answer": 1,
+    "category": "Business Environment",
+    "subcategory": "Governance Ethics",
+    "difficulty": "Hard",
+    "explanation": "Ethical reporting requires transparency even if risks are unfavorable.",
+    "is_pro": true
+  }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+{
+  "android": {
+    "signing": {
+      "keystore": "pmp_mastery_keystore.jks",
+      "keystore_password": "Omshankara@018",
+      "key_alias": "pmp_mastery_key",
+      "key_password": "Omshankara@018"
+    }
+  }
+}

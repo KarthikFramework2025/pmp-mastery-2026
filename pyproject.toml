@@ -1,0 +1,5 @@
+[tool.flet.android.signing]
+keystore = "upload-keystore.jks"
+keystore_password = "Omnamashivaya@090"
+key_alias = "upload"
+key_password = "Omnamashivaya@090"
